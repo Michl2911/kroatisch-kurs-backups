@@ -1,7 +1,8 @@
 {
   "meta": {
     "beschreibung": "Speichert den individuellen Lernfortschritt. Wird vom Script bei jeder generierten Lektion aktualisiert.",
-    "letztes_update": "2026-07-02"
+    "letztes_update": "2026-07-02",
+    "letztes_backup_test": "2026-07-08"
   },
   "vorwissen": [
     {

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "beschreibung": "Lernstand fuer diesen Nutzer.",
+    "letztes_update": null
+  },
+  "vorwissen": [],
+  "abgeschlossene_lektionen": [
+    1
+  ],
+  "bestandene_tests": [],
+  "gelernte_vokabel_ids": [
+    "beh-001-01",
+    "beh-001-02",
+    "beh-001-03",
+    "beh-001-04",
+    "beh-001-05",
+    "beh-001-06",
+    "beh-001-07",
+    "beh-001-08",
+    "beh-001-09",
+    "beh-001-10",
+    "beh-001-11",
+    "beh-001-12",
+    "beh-001-13",
+    "beh-001-14",
+    "beh-001-15"
+  ],
+  "karteikasten": {},
+  "karteikasten_einstellungen": {
+    "intervalle_tage": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ]
+  },
+  "eigene_vokabeln": [],
+  "statistik": {
+    "aktueller_streak": 0,
+    "laengster_streak": 0,
+    "letzter_aktiver_tag": null,
+    "heute_datum": null,
+    "antworten_heute": 0,
+    "fehler_heute": 0,
+    "gesamt_beantwortet": 0,
+    "errungenschaften": []
+  },
+  "aktueller_stand": {
+    "naechste_lektion": 2
+  }
+}

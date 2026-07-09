@@ -3190,6 +3190,100 @@
         "korrigiert": true,
         "status": "abgeschlossen",
         "abgeschlossen_am": "2026-07-06T16:00:46"
+      },
+      "4": {
+        "begonnen_am": "2026-07-08T13:08:30",
+        "antworten": {
+          "u5_0_0": "ja odgovaram",
+          "u5_0_1": "ti odgovaraš",
+          "u5_0_2": "on/ona/ono odgovara",
+          "u5_0_3": "mi odgovaramo",
+          "u5_0_4": "vi odgovarate",
+          "u5_0_5": "oni/one odgovaraju",
+          "u5_1_0": "ja ustajem",
+          "u5_1_1": "ti ustaješ",
+          "u5_1_2": "on/ona/ono ustaje",
+          "u5_1_3": "mi ustajemo",
+          "u5_1_4": "vi ustajete",
+          "u5_1_5": "oni/one ustajeju",
+          "u5_2_0": "ja sam",
+          "u5_2_1": "ti si",
+          "u5_2_2": "on/ona/ono je",
+          "u5_2_3": "mi smo",
+          "u5_2_4": "vi ste",
+          "u5_2_5": "oni/one su",
+          "u5_3_1": "učionice",
+          "u5_3_2": "učionici",
+          "u5_3_3": "učionicu",
+          "u5_3_4": "učionico",
+          "u5_3_5": "učionici",
+          "u5_3_6": "učionicom",
+          "u5_4_1": "papira",
+          "u5_4_2": "papiru",
+          "u5_4_3": "papir",
+          "u5_4_4": "papiri",
+          "u5_4_5": "papiri",
+          "u5_4_6": "papirem",
+          "u5_5_1": "cvijeća",
+          "u5_5_2": "cvijeću",
+          "u5_5_3": "cvijeće",
+          "u5_5_4": "cvijeći",
+          "u5_5_5": "cvijeći",
+          "u5_5_6": "cvijećem",
+          "u6_1_0": "f",
+          "u6_1_1": "m",
+          "u6_1_2": "n",
+          "u6_1_3": "f",
+          "u6_1_4": "m",
+          "u6_2_0": "Kreide",
+          "u6_2_1": "Tomate",
+          "u6_2_2": "bildnerische Erziehung",
+          "u6_3_0": "(a)",
+          "u6_3_1": "(c)",
+          "u6_3_2": "(b)",
+          "u6_4_0": "raspored sati",
+          "u6_4_1": "učionici",
+          "u6_4_2": "ploča",
+          "u6_4_3": "bilježnica",
+          "u6_4_4": "kemijska olovka",
+          "u6_5_0": "a",
+          "u6_5_1": "",
+          "u6_5_2": "o",
+          "u6_6": "bijela ploča, crn papir, bijela kreda",
+          "u6_7_0": "Učionica je velika.",
+          "u6_7_1": "Diječi odgovaraju na pitanje.",
+          "u6_7_2": "Ostajem svijetla, makar sam ….",
+          "u6_8_0": "Olovke su na stolu.",
+          "u6_8_1": "Bilježnice su nove.",
+          "u6_9_0": "Učionica je velika.",
+          "u6_9_1": "Rajčica je crvena.",
+          "u6_9_2": "papir je na stolu.",
+          "u6_10_0": "Heute gehe ich ins Klassenzimmer. Auf dem Tisch habe ich das Heft, den Stift und Papir.",
+          "u6_10_1": "Die Tafel ist schwarz und die Kreide ist weiß.",
+          "u6_10_2": "Ich mag bilderische Erziehung, selbst wenn ich das Doktorstudium nicht mag.",
+          "u7_1": "Bilježnica, olovka i papir",
+          "u7_2": "Moja učionica je velika.",
+          "u7_3": "Ne volim likovni odgoj.",
+          "u8_frei": "Moja učionica je lijepo. Mi smo trideset dječa i jedan učitelj. Na stolu imam papir i kemijsku olovku. Slušam učitelj, makar je teško. Jer sam umoran. Jučer  sam ideo u krevetu vrlo kasno. Danas idem u krevet u deset sata."
+        },
+        "selbstbewertung": {
+          "u6_6": "richtig"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "abgeschlossen_am": "2026-07-08T13:39:34",
+        "ki_korrektur": {
+          "text": "### Korrigierte Version\n\nMoja učionica je lijepa. Mi smo trideset dječaka i jedan učitelj. Na stolu imam papir i kemijsku olovku. Slušam učitelja, makar je teško, jer sam umoran. Jučer sam išao u krevet vrlo kasno. Danas idem u krevet u deset sati.\n\n### Verbesserungshinweise\n\n- \"Učionica\" ist feminin, deshalb braucht das Adjektiv die weibliche Endung: **lijepa**, nicht \"lijepo\" (das wäre neutrum).\n- \"Dječak\" (Junge) wird im Plural mit Zahlen über vier im Genitiv Plural verwendet: **dječaka**, nicht \"dječa\".\n- Als Objekt (Akkusativ) braucht \"učitelj\" die Endung **-a**: \"slušam učitelja\" - hier zeigt sich, dass maskuline Substantive im Akkusativ oft eine andere Form haben als im Nominativ.\n- \"Ideo\" gibt es nicht - das Verb \"ići\" hat im Perfekt die Form **išao** (männliche Form).\n- Kleine Ergänzung: \"Jer sam umoran\" sollte nicht als eigener Satz stehen, sondern mit einem Komma an den vorherigen Satz angeschlossen werden.\n\n### Lob\n\nSehr schön, dass du \"makar\" korrekt eingebaut hast und der Text schön alltagsnah und persönlich ist - man versteht sofort, worum es geht!",
+          "zeitpunkt": "2026-07-08T14:29:28",
+          "kosten_usd": 0.00719
+        }
+      },
+      "5": {
+        "antworten": {
+          "u6_9_0": "",
+          "u6_9_1": "",
+          "u6_9_2": ""
+        }
       }
     }
   },
@@ -9957,8 +10051,8 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-07-08",
+        "box": 2,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       }
     },
@@ -10369,6 +10463,175 @@
         "faellig_am": "2026-07-10",
         "gemeistert": false
       }
+    },
+    "004-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-03": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      }
+    },
+    "004-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "004-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09",
+        "gemeistert": false
+      }
+    },
+    "004-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
+    },
+    "eigen_1": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-09"
+      }
     }
   },
   "karteikasten_einstellungen": {
@@ -10380,14 +10643,20 @@
       90
     ]
   },
-  "eigene_vokabeln": [],
+  "eigene_vokabeln": [
+    {
+      "id": "eigen_1",
+      "de": "obwohl",
+      "hr": "iako"
+    }
+  ],
   "statistik": {
-    "aktueller_streak": 1,
-    "laengster_streak": 1,
-    "letzter_aktiver_tag": "2026-07-07",
-    "heute_datum": "2026-07-07",
-    "antworten_heute": 109,
-    "gesamt_beantwortet": 109,
+    "aktueller_streak": 2,
+    "laengster_streak": 2,
+    "letzter_aktiver_tag": "2026-07-08",
+    "heute_datum": "2026-07-08",
+    "antworten_heute": 46,
+    "gesamt_beantwortet": 155,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -10400,9 +10669,13 @@
       {
         "id": "umfang_100",
         "datum": "2026-07-07"
+      },
+      {
+        "id": "perfekter_tag",
+        "datum": "2026-07-08"
       }
     ],
-    "fehler_heute": 24
+    "fehler_heute": 13
   },
   "vokabel_sitzung": {
     "warteschlange": [],

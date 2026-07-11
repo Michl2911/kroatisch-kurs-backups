@@ -3312,10 +3312,102 @@
       },
       "5": {
         "antworten": {
-          "u6_9_0": "",
-          "u6_9_1": "",
-          "u6_9_2": ""
-        }
+          "u6_9_0": "konobari serviraju juha od rajčica",
+          "u6_9_1": "mi imamo dviji džemovi",
+          "u6_9_2": "restoran nudi ukusne jele",
+          "u5_0_0": "serviram",
+          "u5_0_1": "serviraš",
+          "u5_0_2": "servira",
+          "u5_0_3": "serviramo",
+          "u5_0_4": "servirate",
+          "u5_0_5": "serviraju",
+          "u5_1_0": "mogu",
+          "u5_1_1": "možeš",
+          "u5_1_2": "može",
+          "u5_1_3": "možemo",
+          "u5_1_4": "možete",
+          "u5_1_5": "moži",
+          "u5_2_0": "poklanjam",
+          "u5_2_1": "poklanjaš",
+          "u5_2_2": "poklanja",
+          "u5_2_3": "poklanjamo",
+          "u5_2_4": "poklanjate",
+          "u5_2_5": "poklanju",
+          "u5_3_1": "salvete",
+          "u5_3_2": "salveti",
+          "u5_3_3": "salvetu",
+          "u5_3_4": "salveto",
+          "u5_3_5": "salveti",
+          "u5_3_6": "salvetom",
+          "u5_4_1": "jogurta",
+          "u5_4_2": "jogurtu",
+          "u5_4_3": "jogurt",
+          "u5_4_4": "jugurtu",
+          "u5_4_5": "jogurte",
+          "u5_4_6": "jogurtem",
+          "u5_5_1": "jela",
+          "u5_5_2": "jelu",
+          "u5_5_3": "jelo",
+          "u5_5_4": "jelu",
+          "u5_5_5": "jele",
+          "u5_5_6": "jelom",
+          "u6_1_0": "3",
+          "u6_1_1": "1",
+          "u6_1_2": "4",
+          "u6_1_3": "3",
+          "u6_2": "",
+          "u6_3_0": "",
+          "u6_3_1": "",
+          "u6_3_2": "",
+          "u6_3_3": "",
+          "u6_4_0": "medovi",
+          "u6_4_1": "salvete",
+          "u6_4_2": "jogurti",
+          "u6_4_3": "ulja",
+          "u6_4_4": "gulaševi",
+          "u6_5_0": "C",
+          "u6_5_1": "A",
+          "u6_5_2": "B",
+          "u6_5_3": "C",
+          "u6_6_0": "Začini je u stolu.",
+          "u6_6_1": "Volimo tjestenina za umakom",
+          "u6_6_2": "Na stolu su triju džemovi",
+          "u6_7_0": "Die Kellner servirane Joghurt.",
+          "u6_7_1": "Unser Lieblingsgericht ist Gulasch mit Nudeln.",
+          "u6_7_2": "Im Kühlschrank sind Sahne und Öl.",
+          "u6_8_0": "na stolz du salvete",
+          "u6_8_1": "Imamo jogurti u hladnjaku",
+          "u6_8_2": "Kuhamo omiljena jela",
+          "u6_10": "u naš restoran serviramo juha od rajčica, gulaš i tjestenina. Isto imamo med, džemovi i ulja od salatu. Naša omiljena jela su gulaš za rižom.",
+          "u7_1": "Moje omiljeno jelo je sarma.",
+          "u7_2": "Da, volim. S medom i jabukem.",
+          "u7_3": "Svakako ulje.",
+          "u8_frei": "Zdravo moj prijatelj,\r\nkako si? \r\nMožemo li ići u restoran danas?\r\nOd par dana mogu jesti sarmu s umakom, tjesteninu i salatu.To ne daje u ljetu. Ali sada!\r\nU restoran imaju isti tako jogurti za medom. To ke ukusno.\r\nImaš vrjemene?\r\nDoviđenja,\r\nMichael\r\n\r\n"
+        },
+        "begonnen_am": "2026-07-10T11:42:16",
+        "selbstbewertung": {
+          "u6_1": "falsch",
+          "u6_4": "richtig",
+          "u6_5": "richtig",
+          "u6_6": "falsch",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "falsch",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n\n- Teilweise falsch: A-2 (nicht 3), B-1 ✓, C-4 ✓, D-3 ✓.\n- Merke: Honig = med, daher A-2.\n\n### Übung 4\n\n- Alles richtig! 👍\n\n### Übung 5\n\n- Alles richtig! 👍\n\n### Übung 6\n\n- Fehler in allen drei Sätzen. Korrekt:\n  1. Začini su na stolu.\n  2. Volimo tjesteninu s umakom.\n  3. Na stolu su tri džema.\n- \"u stolu\" → \"na stolu\"; Plural-Verb \"su\" bei mehreren Dingen; nach \"tri/tri\" folgt Genitiv Singular (\"džema\", nicht \"džemovi\").\n\n### Übung 7\n\n- Satz 1 falsch, Rest korrekt. Korrekt: \"Die Kellner servieren Joghurts.\"\n- \"servirane\" ist kein deutsches Wort – gemeint ist \"servieren\".\n\n### Übung 8\n\n- Fehler in 1 und 2. Korrekt:\n  1. Na stolu su salvete.\n  2. Imamo jogurte u hladnjaku.\n  3. Kuhamo omiljena jela. ✓\n- Tippfehler in Satz 1 (\"stolz du\" → \"stolu su\"); Akkusativ Plural bei \"jogurte\" nötig.\n\n### Übung 9\n\n- Alle drei Sätze mit Fehlern. Korrekt:\n  1. Konobari serviraju juhe od rajčica.\n  2. Mi imamo dva džema.\n  3. Restoran nudi ukusna jela.\n- Nach Zahl \"dva\" folgt Genitiv Singular; \"jelo\" bildet Plural auf -a (\"jela\"), nicht \"jele\".\n\n### Übung 10\n\n- Mehrere Fehler. Korrigierte Version:\n  \"U našem restoranu serviramo juhe od rajčica, gulaš i tjesteninu. Isto tako imamo med, džemove i ulja za salatu. Naša omiljena jela su gulaš i riža.\"\n- Achte auf Akkusativ nach \"imamo\" (džemove) und richtige Präposition/Struktur bei \"za salatu\"; \"gulaš za rižom\" sollte \"gulaš i riža\" heißen.",
+          "zeitpunkt": "2026-07-10T11:58:02",
+          "kosten_usd": 0.024736
+        },
+        "ki_korrektur": {
+          "text": "### Korrigierte Version\n\nZdravo moj prijatelju,\nkako si?\nMožemo li ići u restoran danas?\nVeć par dana mogu jesti sarmu s umakom, tjesteninu i salatu. To se ne jede ljeti. Ali sada!\nU restoranu imaju isto tako jogurte s medom. To je ukusno.\nImaš li vremena?\nDoviđenja,\nMichael\n\n### Verbesserungshinweise\n\n- **Plural von jogurt**: Es heißt „jogurti“ nur im Nominativ. Hier brauchst du den Akkusativ Plural, weil „imaju“ ein Objekt verlangt – das wird „jogurte“. Merke dir: bei männlichen Substantiven im Plural ändert sich die Endung je nach Fall.\n- **„moj prijatelj“** sollte im Vokativ „moj prijatelju“ heißen, wenn du jemanden direkt anredest.\n- **„To ne daje u ljetu“** ist im Kroatischen nicht verständlich – gemeint war wohl „das isst man nicht im Sommer“ = „To se ne jede ljeti“.\n- **„vrjemene“** ist falsch geschrieben, richtig ist „vremena“ (Genitiv von „vrijeme“, nach „imaš li“).\n\n### Lob\n\nSehr schön, dass du schon mehrere Pluralformen (jogurti/jogurte, začini, salvete-ähnliche Strukturen) und viele neue Vokabeln aus der Lektion eingebaut hast – der Text liest sich schon sehr natürlich und persönlich!",
+          "zeitpunkt": "2026-07-10T12:15:15",
+          "kosten_usd": 0.007572
+        },
+        "abgeschlossen_am": "2026-07-10T12:18:34"
       }
     }
   },
@@ -9958,128 +10050,128 @@
     },
     "003-03": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-12": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-05": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-03": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
@@ -10090,416 +10182,416 @@
     },
     "001-08": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-05": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-05": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-08": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-12": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-12": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-08": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-03": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-06": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-06": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "001-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "002-06": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
     "003-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 3,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-10",
+        "box": 1,
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       }
     },
     "004-01": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-10",
+        "box": 2,
+        "faellig_am": "2026-07-13",
         "gemeistert": false
       },
       "hr_de": {
@@ -10509,8 +10601,8 @@
     },
     "004-02": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-10",
+        "box": 2,
+        "faellig_am": "2026-07-13",
         "gemeistert": false
       },
       "hr_de": {
@@ -10563,7 +10655,7 @@
     "004-07": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-07-10",
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
@@ -10595,7 +10687,7 @@
     "004-10": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-07-10",
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
@@ -10618,7 +10710,7 @@
     "004-12": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-07-10",
+        "faellig_am": "2026-07-11",
         "gemeistert": false
       },
       "hr_de": {
@@ -10668,6 +10760,161 @@
         "box": 2,
         "faellig_am": "2026-07-12"
       }
+    },
+    "005-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-03": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11",
+        "gemeistert": false
+      }
+    },
+    "005-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
+    },
+    "005-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11",
+        "gemeistert": false
+      }
+    },
+    "005-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-11",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-11"
+      }
     }
   },
   "karteikasten_einstellungen": {
@@ -10687,12 +10934,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 3,
-    "laengster_streak": 3,
-    "letzter_aktiver_tag": "2026-07-09",
-    "heute_datum": "2026-07-09",
-    "antworten_heute": 39,
-    "gesamt_beantwortet": 194,
+    "aktueller_streak": 4,
+    "laengster_streak": 4,
+    "letzter_aktiver_tag": "2026-07-10",
+    "heute_datum": "2026-07-10",
+    "antworten_heute": 143,
+    "gesamt_beantwortet": 337,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -10713,9 +10960,13 @@
       {
         "id": "streak_3",
         "datum": "2026-07-09"
+      },
+      {
+        "id": "umfang_250",
+        "datum": "2026-07-10"
       }
     ],
-    "fehler_heute": 7
+    "fehler_heute": 19
   },
   "vokabel_sitzung": {
     "warteschlange": [],

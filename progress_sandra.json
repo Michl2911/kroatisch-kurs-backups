@@ -48,5 +48,14 @@
   },
   "aktueller_stand": {
     "naechste_lektion": 2
+  },
+  "kursgruppen_fortschritt": {
+    "nachrichten_medien": {
+      "abgeschlossene_lektionen": [
+        1
+      ],
+      "bestandene_tests": [],
+      "bearbeitungsstand": {}
+    }
   }
 }

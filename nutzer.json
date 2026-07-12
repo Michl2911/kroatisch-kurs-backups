@@ -15,7 +15,8 @@
     "passwort_hash": "scrypt:32768:8:1$Geh7EtlvQJG8J4XC$4c916afa9365527327047bac7680f7f89c2176239bd980240ab4c55fd980d6a7093fc026920455411a21db2a8d21f7af13fc43ff55ec4f77e8e2f956a51bdc00",
     "progress_datei": "progress_sandra.json",
     "kursgruppen": [
-      "behoerdengaenge"
+      "behoerdengaenge",
+      "nachrichten_medien"
     ]
   }
 ]

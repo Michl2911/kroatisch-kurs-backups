@@ -2785,9 +2785,12 @@
     6,
     20,
     21,
-    7
+    7,
+    8
   ],
-  "bestandene_tests": [],
+  "bestandene_tests": [
+    "T1"
+  ],
   "gelernte_vokabel_ids": [
     "001-01",
     "001-02",
@@ -3013,7 +3016,22 @@
     "007-12",
     "007-13",
     "007-14",
-    "007-15"
+    "007-15",
+    "008-01",
+    "008-02",
+    "008-03",
+    "008-04",
+    "008-05",
+    "008-06",
+    "008-07",
+    "008-08",
+    "008-09",
+    "008-10",
+    "008-11",
+    "008-12",
+    "008-13",
+    "008-14",
+    "008-15"
   ],
   "aktueller_stand": {
     "naechste_lektion": 22,
@@ -3424,6 +3442,93 @@
           "kosten_usd": 0.007572
         },
         "abgeschlossen_am": "2026-07-10T12:18:34"
+      },
+      "6": {
+        "begonnen_am": "2026-07-13T19:00:27",
+        "antworten": {
+          "u5_0_0": "gledam",
+          "u5_0_1": "gledaš",
+          "u5_0_2": "gleda",
+          "u5_0_3": "gledamo",
+          "u5_0_4": "gledate",
+          "u5_0_5": "gledaju",
+          "u5_1_0": "se budim",
+          "u5_1_1": "se budiš",
+          "u5_1_2": "se budi",
+          "u5_1_3": "se budimo",
+          "u5_1_4": "se budite",
+          "u5_1_5": "se bude",
+          "u5_2_0": "se odmaram",
+          "u5_2_1": "se odmaraš",
+          "u5_2_2": "se odmara",
+          "u5_2_3": "se odmaramo",
+          "u5_2_4": "se odmarate",
+          "u5_2_5": "se odmaraju",
+          "u5_3_1": "odgovora",
+          "u5_3_2": "odgovoru",
+          "u5_3_3": "odgovor",
+          "u5_3_4": "odgovore",
+          "u5_3_5": "odgovoru",
+          "u5_3_6": "odgovoremo",
+          "u5_4_1": "rižota",
+          "u5_4_2": "rižotu",
+          "u5_4_3": "rižoto",
+          "u5_4_4": "rižote",
+          "u5_4_5": "rižotu",
+          "u5_4_6": "rižotom",
+          "u5_5_1": "pauze",
+          "u5_5_2": "pauzi",
+          "u5_5_3": "pauzu",
+          "u5_5_4": "pauzi",
+          "u5_5_5": "pauzo",
+          "u5_5_6": "pauzom",
+          "u6_1": "1C, 2D, 3A, 4B",
+          "u6_2_0": "gleda",
+          "u6_3_0": "pauza za ručak",
+          "u6_3_1": "večeras",
+          "u6_3_2": "prije",
+          "u6_4_0": "doručkajam",
+          "u6_4_1": "idem",
+          "u6_4_2": "odmaram ",
+          "u6_5_0": "bude se",
+          "u6_5_1": "gledaju se",
+          "u6_5_2": "odmaraju se",
+          "u6_6": "1B, 2C, 3A",
+          "u6_7_0": "Ja budim se u šest.",
+          "u6_7_1": "Dolazimo kući odmah.",
+          "u6_7_2": "Oni odmaraju večeras.",
+          "u6_8_0": "mi doručkujemo",
+          "u6_8_1": "Mi se budimo rano.",
+          "u6_9_0": "mi gledamo televiziju večeras.",
+          "u6_9_1": "Ona ide na posao odmah.",
+          "u6_10": "Ich wache um sieben Uhr auf, frühstücke und dann gehe ich zur Arbeit. Nachmittags ruhe ich mich aus.",
+          "u7_1": "Budim se u sedam.",
+          "u7_2": "Večeras gledam televiziju i odmaram se.",
+          "u7_3": "Da.",
+          "u8_1": "U šest sati.",
+          "u8_2_0": "Rižoto",
+          "u8_3": "Falsch er ist im selben Alter",
+          "u8_4_0": "Fernsehen und sich ausruhen",
+          "u8_5_0": "Auf sie Antwort Ihrer Freunde, was sie am Wochenende machen"
+        },
+        "selbstbewertung": {
+          "u6_1": "richtig",
+          "u6_3": "richtig",
+          "u6_5": "falsch",
+          "u6_6": "richtig",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "falsch",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n- Richtig! Alle Zuordnungen stimmen.\n\n### Übung 3\n- Richtig! Alle drei Übersetzungen sind korrekt.\n\n### Übung 5\n- Teilweise fehlerhaft. Korrekt: 1. bude se ✓, 2. **gledaju** (ohne „se“, da „gledati“ nicht reflexiv ist), 3. odmaraju se ✓\n- „gledati se“ gibt es zwar auch, bedeutet aber „sich gegenseitig ansehen“ - hier war nur „gledati“ gemeint.\n\n### Übung 6\n- Richtig! Alle Zuordnungen sind sinnvoll und korrekt.\n\n### Übung 7\n1. Ja budim se u šest. - inhaltlich korrekt, natürlicher wäre: „Ja se budim u šest.“ (das Reflexivpronomen „se“ steht meist direkt nach dem Subjekt/vor dem Verb).\n2. Dolazimo kući odmah. - inhaltlich korrekt, natürlicher wäre: „Dolazimo odmah kući.“\n3. Oni odmaraju večeras. - fehlerhaft. Korrekt: „Oni se odmaraju navečer.“ Es fehlt das Reflexivpronomen „se“, und „večeras“ (heute Abend) passt hier nicht - gemeint ist „navečer“ (abends, allgemein).\n\n### Übung 8\n1. mi doručkujemo - inhaltlich korrekt, aber „Mi“ sollte großgeschrieben werden (Satzanfang).\n2. Mi se budimo rano. - Richtig!\n\n### Übung 9\n1. mi gledamo televiziju večeras. - inhaltlich korrekt, aber „Mi“ sollte großgeschrieben werden (Satzanfang).\n2. Ona ide na posao odmah. - Richtig!\n\n### Übung 10\n- Übersetzung fast korrekt, aber ein kleiner Fehler: „Navečer“ bedeutet „abends“, nicht „nachmittags“. Korrekt: „Abends ruhe ich mich aus.“\n- Der eigene Satz über den Tagesablauf fehlt noch - bitte ergänzen!",
+          "zeitpunkt": "2026-07-13T19:09:50",
+          "kosten_usd": 0.021054
+        },
+        "abgeschlossen_am": "2026-07-13T19:16:56"
       }
     }
   },
@@ -10606,8 +10711,8 @@
     },
     "004-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-13",
+        "box": 3,
+        "faellig_am": "2026-07-22",
         "gemeistert": false
       },
       "hr_de": {
@@ -10617,8 +10722,8 @@
     },
     "004-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-13",
+        "box": 3,
+        "faellig_am": "2026-07-22",
         "gemeistert": false
       },
       "hr_de": {
@@ -10713,8 +10818,8 @@
     },
     "004-11": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-13",
+        "box": 2,
+        "faellig_am": "2026-07-16",
         "gemeistert": false
       },
       "hr_de": {
@@ -10736,8 +10841,8 @@
     },
     "004-13": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-13",
+        "box": 2,
+        "faellig_am": "2026-07-16",
         "gemeistert": false
       },
       "hr_de": {
@@ -10933,6 +11038,161 @@
         "box": 2,
         "faellig_am": "2026-07-14"
       }
+    },
+    "006-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-03": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
+    },
+    "006-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-14",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-14"
+      }
     }
   },
   "karteikasten_einstellungen": {
@@ -10952,12 +11212,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 6,
-    "laengster_streak": 6,
-    "letzter_aktiver_tag": "2026-07-12",
-    "heute_datum": "2026-07-12",
-    "antworten_heute": 37,
-    "gesamt_beantwortet": 423,
+    "aktueller_streak": 7,
+    "laengster_streak": 7,
+    "letzter_aktiver_tag": "2026-07-13",
+    "heute_datum": "2026-07-13",
+    "antworten_heute": 40,
+    "gesamt_beantwortet": 463,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -10982,9 +11242,13 @@
       {
         "id": "umfang_250",
         "datum": "2026-07-10"
+      },
+      {
+        "id": "streak_7",
+        "datum": "2026-07-13"
       }
     ],
-    "fehler_heute": 2
+    "fehler_heute": 6
   },
   "vokabel_sitzung": {
     "warteschlange": [],

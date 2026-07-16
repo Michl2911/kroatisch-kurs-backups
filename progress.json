@@ -10388,7 +10388,7 @@
     "003-12": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-07-15",
+        "faellig_am": "2026-07-16",
         "gemeistert": false
       },
       "hr_de": {
@@ -10447,8 +10447,8 @@
     },
     "003-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10567,8 +10567,8 @@
     },
     "002-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10651,8 +10651,8 @@
     },
     "003-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10775,8 +10775,8 @@
     },
     "004-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10807,8 +10807,8 @@
     },
     "004-10": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-15",
+        "box": 2,
+        "faellig_am": "2026-07-18",
         "gemeistert": false
       },
       "hr_de": {
@@ -10914,8 +10914,8 @@
     },
     "005-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10935,8 +10935,8 @@
     },
     "005-06": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -11018,8 +11018,8 @@
     },
     "005-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -11030,8 +11030,8 @@
     },
     "005-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-15",
+        "box": 3,
+        "faellig_am": "2026-07-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -11073,8 +11073,8 @@
     },
     "006-04": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-15",
+        "box": 2,
+        "faellig_am": "2026-07-18",
         "gemeistert": false
       },
       "hr_de": {
@@ -11105,8 +11105,8 @@
     },
     "006-07": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-15",
+        "box": 2,
+        "faellig_am": "2026-07-18",
         "gemeistert": false
       },
       "hr_de": {
@@ -11116,8 +11116,8 @@
     },
     "006-08": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-15",
+        "box": 2,
+        "faellig_am": "2026-07-18",
         "gemeistert": false
       },
       "hr_de": {
@@ -11132,7 +11132,7 @@
       },
       "hr_de": {
         "box": 1,
-        "faellig_am": "2026-07-15",
+        "faellig_am": "2026-07-16",
         "gemeistert": false
       }
     },
@@ -11172,8 +11172,8 @@
         "faellig_am": "2026-07-17"
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-07-15",
+        "box": 2,
+        "faellig_am": "2026-07-18",
         "gemeistert": false
       }
     },
@@ -11217,12 +11217,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 8,
-    "laengster_streak": 8,
-    "letzter_aktiver_tag": "2026-07-14",
-    "heute_datum": "2026-07-14",
-    "antworten_heute": 69,
-    "gesamt_beantwortet": 532,
+    "aktueller_streak": 9,
+    "laengster_streak": 9,
+    "letzter_aktiver_tag": "2026-07-15",
+    "heute_datum": "2026-07-15",
+    "antworten_heute": 17,
+    "gesamt_beantwortet": 549,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -11257,7 +11257,7 @@
         "datum": "2026-07-14"
       }
     ],
-    "fehler_heute": 7
+    "fehler_heute": 2
   },
   "vokabel_sitzung": {
     "warteschlange": [],

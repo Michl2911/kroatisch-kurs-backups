@@ -3529,6 +3529,92 @@
           "kosten_usd": 0.021054
         },
         "abgeschlossen_am": "2026-07-13T19:16:56"
+      },
+      "7": {
+        "begonnen_am": "2026-07-16T18:58:43",
+        "antworten": {
+          "u5_0_0": "ja radim",
+          "u5_0_1": "ti radiš",
+          "u5_0_2": "on/ona/ono radi",
+          "u5_0_3": "mi radimo",
+          "u5_0_4": "vi radite",
+          "u5_0_5": "oni/one rade",
+          "u5_1_0": "ja pišam",
+          "u5_1_1": "ti pišaš",
+          "u5_1_2": "on piša",
+          "u5_1_3": "pišamo",
+          "u5_1_4": "pišate",
+          "u5_1_5": "pišaju",
+          "u5_2_0": "ja imam",
+          "u5_2_1": "ti imaš",
+          "u5_2_2": "on/ona/ono ima",
+          "u5_2_3": "mi imamo",
+          "u5_2_4": "vi imate",
+          "u5_2_5": "oni/one imaju",
+          "u5_3_1": "odvjetnika",
+          "u5_3_2": "odvjetniku",
+          "u5_3_3": "odvjetnika",
+          "u5_3_4": "odvjetnike",
+          "u5_3_5": "odvjetniku",
+          "u5_3_6": "odvjetnikom",
+          "u5_4_1": "službenice",
+          "u5_4_2": "službenici",
+          "u5_4_3": "Službenicu",
+          "u5_4_4": "službenici",
+          "u5_4_5": "Slušvenico",
+          "u5_4_6": "Službenicom",
+          "u5_5_1": "posla",
+          "u5_5_2": "poslu",
+          "u5_5_3": "posao",
+          "u5_5_4": "posle",
+          "u5_5_5": "poslu",
+          "u5_5_6": "poslom",
+          "u6_1": "1.b) ; 2.a) ; 3.c) ; 4.d)",
+          "u6_2_0": "",
+          "u6_3_0": "Smeja",
+          "u6_3_1": "puno radno vrijeme",
+          "u6_3_2": "okus",
+          "u6_4_0": "",
+          "u6_4_1": "",
+          "u6_4_2": "",
+          "u6_5": "mehaničar popravlja aute.\r\nZubar pregledava zube.\r\nNovinar piše članke.",
+          "u6_6_0": "sam",
+          "u6_6_1": "Odvjetnik",
+          "u6_6_2": "je",
+          "u6_6_3": "službarica",
+          "u6_6_4": "smo",
+          "u6_6_5": "seljaki",
+          "u6_7_0": "Mehaničar je ekspert.",
+          "u6_7_1": "odvjetnica radi puno radno vrijeme.",
+          "u6_7_2": "Vatrogasac je",
+          "u6_8_0": "Der Zahnarzt zieht den Zahn.",
+          "u6_8_1": "Der Bauer arbeitet auf der Farm.",
+          "u6_9_0": "Ja sam poliglot i govorim četiri jezika.",
+          "u6_9_1": "posao je teško danas.",
+          "u6_10": "Guten Tag! Ich bin Mechaniker und arbeite immer Schicht am Morgen. Meine Arbeit ist schwer, aber der Geschmack von Kaffee am morgen ist immer gut.",
+          "u8_frei": "Tko sam ja i tko sam po mojom zanimanju?\r\nDobar dan! Ja sam Michael i ja sam inženjer. Volim mojom posao iako moram ustajati svijetlo. Budim u pola sedam svaki dan. Ponekad moje mačke probudi me u pola šest. Onda ja sam umoran svaki dan. Ali kavu uvijek je dobar. Sada ne znam više… Do sutra, doviđenja ;)"
+        },
+        "selbstbewertung": {
+          "u6_1": "richtig",
+          "u6_3": "falsch",
+          "u6_5": "richtig",
+          "u6_6": "falsch",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "falsch",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n\n- Richtig! Alle Zuordnungen sind korrekt.\n\n### Übung 3\n\n- 1. \"Smeja\" ist nicht korrekt – richtig wäre **smjena**.\n- 2. und 3. korrekt.\n\n### Übung 5\n\n- Richtig! Alle Zuordnungen und Sätze sind korrekt.\n\n### Übung 6\n\n- Teilweise fehlerhaft. Richtig wäre:\n  1. Ja sam odvjetnik.\n  2. Ona je službenica.\n  3. Mi smo seljaci.\n- \"službarica\" heißt korrekt **službenica**, \"seljaki\" heißt korrekt **seljaci** (Nominativ Plural).\n\n### Übung 7\n\n- 1. Korrekt: *Mehaničar je ekspert.*\n- 2. Fast richtig, aber Satzanfang muss großgeschrieben werden: *Odvjetnica radi puno radno vrijeme.*\n- 3. Unvollständig – es fehlt das Adjektiv: *Vatrogasac je hrabar.*\n\n### Übung 8\n\n- Hier war eine Umformung ins Kroatische gefordert (Beispielsatz „On je novinar.“), nicht eine deutsche Übersetzung.\n- Richtige Lösung:\n  1. On je zubar.\n  2. On je seljak.\n\n### Übung 9\n\n- 1. Korrekt: *Ja sam poliglot i govorim četiri jezika.*\n- 2. Fehlerhaft. Richtig wäre: *Posao je danas težak.* (Satzanfang großschreiben, „teško“ muss als Adjektiv im Nominativ maskulin **težak** stehen, nicht als Adverb \"teško\").\n\n### Übung 10\n\n- Fast korrekt, aber \"električar\" bedeutet **Elektriker**, nicht \"Mechaniker\". Der Rest der Übersetzung ist gut gelungen.",
+          "zeitpunkt": "2026-07-16T19:11:05",
+          "kosten_usd": 0.017916
+        },
+        "ki_korrektur": {
+          "fehler": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011Cd6HLwFeVbUD2sqKW9cqB'}"
+        },
+        "abgeschlossen_am": "2026-07-16T19:24:11"
       }
     }
   },
@@ -10387,8 +10473,8 @@
     },
     "003-12": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-16",
+        "box": 2,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       },
       "hr_de": {
@@ -10818,8 +10904,8 @@
     },
     "004-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-16",
+        "box": 3,
+        "faellig_am": "2026-07-25",
         "gemeistert": false
       },
       "hr_de": {
@@ -10841,8 +10927,8 @@
     },
     "004-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-16",
+        "box": 3,
+        "faellig_am": "2026-07-25",
         "gemeistert": false
       },
       "hr_de": {
@@ -11131,8 +11217,8 @@
         "faellig_am": "2026-07-17"
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-07-16",
+        "box": 2,
+        "faellig_am": "2026-07-19",
         "gemeistert": false
       }
     },
@@ -11198,6 +11284,166 @@
         "box": 2,
         "faellig_am": "2026-07-17"
       }
+    },
+    "eigen_2": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-07-17"
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-07-17"
+      }
+    },
+    "007-01": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-02": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-03": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-04": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-05": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-06": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-07": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-08": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-09": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-10": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-11": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-12": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-13": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-14": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
+    },
+    "007-15": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-16"
+      }
     }
   },
   "karteikasten_einstellungen": {
@@ -11214,15 +11460,20 @@
       "id": "eigen_1",
       "de": "obwohl",
       "hr": "iako"
+    },
+    {
+      "id": "eigen_2",
+      "de": "Garten",
+      "hr": "vrt"
     }
   ],
   "statistik": {
-    "aktueller_streak": 9,
-    "laengster_streak": 9,
-    "letzter_aktiver_tag": "2026-07-15",
-    "heute_datum": "2026-07-15",
-    "antworten_heute": 17,
-    "gesamt_beantwortet": 549,
+    "aktueller_streak": 10,
+    "laengster_streak": 10,
+    "letzter_aktiver_tag": "2026-07-16",
+    "heute_datum": "2026-07-16",
+    "antworten_heute": 6,
+    "gesamt_beantwortet": 555,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -11257,7 +11508,7 @@
         "datum": "2026-07-14"
       }
     ],
-    "fehler_heute": 2
+    "fehler_heute": 0
   },
   "vokabel_sitzung": {
     "warteschlange": [],

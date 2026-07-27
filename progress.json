@@ -10307,8 +10307,8 @@
     },
     "003-03": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-23",
+        "box": 4,
+        "faellig_am": "2026-08-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10703,8 +10703,8 @@
     },
     "002-07": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-24",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
@@ -10787,8 +10787,8 @@
     },
     "003-15": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-24",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
@@ -10858,8 +10858,8 @@
     },
     "004-02": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-22",
+        "box": 4,
+        "faellig_am": "2026-08-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10869,8 +10869,8 @@
     },
     "004-03": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
@@ -10880,8 +10880,8 @@
     },
     "004-04": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       },
       "hr_de": {
         "box": 3,
@@ -10890,8 +10890,8 @@
     },
     "004-05": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       },
       "hr_de": {
         "box": 3,
@@ -10905,14 +10905,14 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "004-07": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-24",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
@@ -10932,8 +10932,8 @@
     },
     "004-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21",
+        "box": 4,
+        "faellig_am": "2026-08-24",
         "gemeistert": false
       },
       "hr_de": {
@@ -10948,8 +10948,8 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "004-11": {
@@ -10977,19 +10977,20 @@
     },
     "004-13": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-25",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 0,
+        "faellig_am": "2026-07-26",
+        "gemeistert": false
       }
     },
     "004-14": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21",
+        "box": 0,
+        "faellig_am": "2026-07-26",
         "gemeistert": false
       },
       "hr_de": {
@@ -11000,8 +11001,8 @@
     },
     "004-15": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-21"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       },
       "hr_de": {
         "box": 3,
@@ -11065,8 +11066,8 @@
         "faellig_am": "2026-07-23"
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "005-06": {
@@ -11086,8 +11087,8 @@
         "faellig_am": "2026-07-23"
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "005-08": {
@@ -11097,14 +11098,14 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "005-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       },
       "hr_de": {
         "box": 3,
@@ -11113,12 +11114,12 @@
     },
     "005-10": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "005-11": {
@@ -11137,8 +11138,8 @@
         "faellig_am": "2026-07-23"
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23",
+        "box": 4,
+        "faellig_am": "2026-08-24",
         "gemeistert": false
       }
     },
@@ -11171,8 +11172,8 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-07-23"
+        "box": 4,
+        "faellig_am": "2026-08-24"
       }
     },
     "006-01": {
@@ -11263,8 +11264,8 @@
     },
     "006-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-23",
+        "box": 3,
+        "faellig_am": "2026-08-04",
         "gemeistert": false
       },
       "hr_de": {
@@ -11354,8 +11355,8 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-23"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       }
     },
     "007-02": {
@@ -11385,8 +11386,8 @@
         "faellig_am": "2026-07-23"
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-23"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       }
     },
     "007-05": {
@@ -11402,13 +11403,13 @@
     },
     "007-06": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-07-21",
+        "box": 2,
+        "faellig_am": "2026-07-29",
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-07-21"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       }
     },
     "007-07": {
@@ -11434,8 +11435,8 @@
     },
     "007-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-23"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       },
       "hr_de": {
         "box": 2,
@@ -11444,8 +11445,8 @@
     },
     "007-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-21"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       },
       "hr_de": {
         "box": 2,
@@ -11455,8 +11456,8 @@
     },
     "007-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-23"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       },
       "hr_de": {
         "box": 1,
@@ -11497,8 +11498,8 @@
     },
     "007-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-07-23"
+        "box": 3,
+        "faellig_am": "2026-08-04"
       },
       "hr_de": {
         "box": 2,
@@ -11528,12 +11529,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 6,
+    "aktueller_streak": 7,
     "laengster_streak": 12,
-    "letzter_aktiver_tag": "2026-07-25",
-    "heute_datum": "2026-07-25",
-    "antworten_heute": 904,
-    "gesamt_beantwortet": 2139,
+    "letzter_aktiver_tag": "2026-07-26",
+    "heute_datum": "2026-07-26",
+    "antworten_heute": 32,
+    "gesamt_beantwortet": 2171,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -11576,138 +11577,10 @@
         "datum": "2026-07-24"
       }
     ],
-    "fehler_heute": 199
+    "fehler_heute": 7
   },
   "vokabel_sitzung": {
     "warteschlange": [
-      {
-        "id": "004-07",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "007-06",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "005-07",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "007-15",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-09",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-05",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "002-07",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "003-15",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "007-09",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "007-01",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "007-04",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "007-06",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "003-03",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-02",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-04",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-13",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "004-06",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "005-10",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "004-14",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "006-09",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "007-11",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "005-08",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "005-05",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "005-12",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "005-15",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "007-10",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-13",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-10",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "004-03",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "005-09",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "004-15",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "005-10",
-        "richtung": "de_hr"
-      },
       {
         "id": "004-11",
         "richtung": "de_hr"
@@ -11975,9 +11848,37 @@
       {
         "id": "004-08",
         "richtung": "de_hr"
+      },
+      {
+        "id": "004-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "002-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "004-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-03",
+        "richtung": "de_hr"
       }
     ],
-    "richtig": 0,
-    "gesamt": 0
+    "richtig": 25,
+    "gesamt": 32
   }
 }

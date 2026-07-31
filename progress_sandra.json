@@ -25,7 +25,159 @@
     "beh-001-14",
     "beh-001-15"
   ],
-  "karteikasten": {},
+  "karteikasten": {
+    "beh-001-01": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-02": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30",
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-03": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-04": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-05": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-06": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-07": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-08": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-09": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-10": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-11": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-12": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-13": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-14": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    },
+    "beh-001-15": {
+      "de_hr": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      },
+      "hr_de": {
+        "box": 0,
+        "faellig_am": "2026-07-30"
+      }
+    }
+  },
   "karteikasten_einstellungen": {
     "intervalle_tage": [
       1,
@@ -40,10 +192,10 @@
     "aktueller_streak": 0,
     "laengster_streak": 0,
     "letzter_aktiver_tag": null,
-    "heute_datum": null,
-    "antworten_heute": 0,
-    "fehler_heute": 0,
-    "gesamt_beantwortet": 0,
+    "heute_datum": "2026-07-30",
+    "antworten_heute": 1,
+    "fehler_heute": 1,
+    "gesamt_beantwortet": 1,
     "errungenschaften": []
   },
   "aktueller_stand": {
@@ -56,6 +208,143 @@
       ],
       "bestandene_tests": [],
       "bearbeitungsstand": {}
+    },
+    "behoerdengaenge": {
+      "abgeschlossene_lektionen": [
+        1
+      ],
+      "bestandene_tests": [],
+      "bearbeitungsstand": {
+        "lektionen": {
+          "1": {}
+        }
+      }
     }
+  },
+  "vokabel_sitzung": {
+    "warteschlange": [
+      {
+        "id": "beh-001-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-02",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-15",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-04",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-05",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-14",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-08",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "beh-001-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "beh-001-02",
+        "richtung": "de_hr"
+      }
+    ],
+    "richtig": 0,
+    "gesamt": 1
   }
 }

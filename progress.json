@@ -2790,7 +2790,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "bestandene_tests": [
     "T1"
@@ -3095,7 +3096,22 @@
     "012-12",
     "012-13",
     "012-14",
-    "012-15"
+    "012-15",
+    "013-01",
+    "013-02",
+    "013-03",
+    "013-04",
+    "013-05",
+    "013-06",
+    "013-07",
+    "013-08",
+    "013-09",
+    "013-10",
+    "013-11",
+    "013-12",
+    "013-13",
+    "013-14",
+    "013-15"
   ],
   "aktueller_stand": {
     "naechste_lektion": 22,
@@ -4839,10 +4855,10 @@
     },
     "vw_069": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -5728,11 +5744,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 4,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_143": {
@@ -6349,10 +6365,10 @@
     },
     "vw_194": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -6439,10 +6455,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_202": {
@@ -6524,10 +6540,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_209": {
@@ -6966,10 +6982,10 @@
     },
     "vw_245": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 3,
@@ -7451,10 +7467,10 @@
     },
     "vw_285": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -7661,10 +7677,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_303": {
@@ -7741,10 +7757,10 @@
     },
     "vw_309": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -8203,11 +8219,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 5,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_348": {
@@ -8306,10 +8322,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_356": {
@@ -8573,10 +8589,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_378": {
@@ -8823,10 +8839,10 @@
     },
     "vw_398": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -9104,10 +9120,10 @@
     },
     "vw_421": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -9117,10 +9133,10 @@
     },
     "vw_422": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -9360,10 +9376,10 @@
     },
     "vw_442": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -9457,10 +9473,11 @@
     },
     "vw_450": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 1,
+        "faellig_am": "2026-08-05",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 1
       },
       "hr_de": {
         "box": 5,
@@ -9485,9 +9502,9 @@
     "vw_452": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-08-04",
+        "faellig_am": "2026-08-05",
         "gemeistert": false,
-        "falsch_gesamt": 1,
+        "falsch_gesamt": 2,
         "richtig_in_folge": 1
       },
       "hr_de": {
@@ -9659,10 +9676,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_467": {
@@ -9805,11 +9822,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_479": {
@@ -11069,10 +11086,10 @@
     },
     "001-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -11202,11 +11219,11 @@
     },
     "003-15": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -11687,16 +11704,17 @@
     },
     "006-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-04",
-        "gemeistert": false
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "gemeistert": false,
+        "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "006-10": {
@@ -11783,8 +11801,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       }
     },
     "007-02": {
@@ -11814,8 +11833,9 @@
         "faellig_am": "2026-08-05"
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       }
     },
     "007-05": {
@@ -11837,8 +11857,9 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       }
     },
     "007-07": {
@@ -11865,8 +11886,9 @@
     },
     "007-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 3,
@@ -11875,8 +11897,9 @@
     },
     "007-10": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 3,
@@ -11886,8 +11909,11 @@
     },
     "007-11": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 1,
+        "faellig_am": "2026-08-05",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
       },
       "hr_de": {
         "box": 3,
@@ -11930,8 +11956,9 @@
     },
     "007-15": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-04"
+        "box": 4,
+        "faellig_am": "2026-09-02",
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 3,
@@ -12168,9 +12195,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-02": {
@@ -12182,49 +12209,49 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "009-03": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 4,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-05": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-06": {
@@ -12236,111 +12263,113 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-08": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "009-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "009-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-12": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "009-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
+        "box": 3,
+        "faellig_am": "2026-08-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 1,
+        "faellig_am": "2026-08-05",
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       }
     },
     "009-15": {
@@ -12352,9 +12381,9 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1
+        "box": 3,
+        "faellig_am": "2026-08-13",
+        "richtig_in_folge": 2
       }
     },
     "eigen_5": {
@@ -12396,9 +12425,9 @@
     "011-03": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-08-04",
+        "faellig_am": "2026-08-05",
         "richtig_in_folge": 1,
-        "falsch_gesamt": 1,
+        "falsch_gesamt": 3,
         "gemeistert": false
       },
       "hr_de": {
@@ -12442,9 +12471,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -12503,10 +12532,10 @@
     },
     "011-11": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -12517,10 +12546,10 @@
     },
     "011-12": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
+        "box": 2,
+        "faellig_am": "2026-08-07",
         "falsch_gesamt": 3,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -12575,9 +12604,9 @@
       },
       "hr_de": {
         "box": 1,
-        "faellig_am": "2026-08-04",
+        "faellig_am": "2026-08-05",
         "richtig_in_folge": 1,
-        "falsch_gesamt": 1,
+        "falsch_gesamt": 2,
         "gemeistert": false
       }
     },
@@ -12588,9 +12617,9 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-04",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -12653,12 +12682,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 15,
-    "laengster_streak": 15,
-    "letzter_aktiver_tag": "2026-08-03",
-    "heute_datum": "2026-08-03",
-    "antworten_heute": 71,
-    "gesamt_beantwortet": 3238,
+    "aktueller_streak": 16,
+    "laengster_streak": 16,
+    "letzter_aktiver_tag": "2026-08-04",
+    "heute_datum": "2026-08-04",
+    "antworten_heute": 70,
+    "gesamt_beantwortet": 3308,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -12717,31 +12746,31 @@
         "datum": "2026-08-03"
       }
     ],
-    "fehler_heute": 15,
-    "max_faellig_datum": "2026-08-03",
-    "max_faellig_heute": 56,
-    "aktive_tage": 3,
+    "fehler_heute": 7,
+    "max_faellig_datum": "2026-08-04",
+    "max_faellig_heute": 63,
+    "aktive_tage": 4,
     "letzte_antwortzeiten": [
-      1785733372.111615,
-      1785733378.994461,
-      1785733386.21118,
-      1785733397.313037,
-      1785733403.670776,
-      1785733409.471793,
-      1785733419.850663,
-      1785733424.54803,
-      1785733428.479505,
-      1785733435.149562,
-      1785733439.861004,
-      1785733443.522191,
-      1785733447.576361,
-      1785733454.868813,
-      1785733462.710307,
-      1785733468.13412,
-      1785733474.410983,
-      1785733481.111276,
-      1785733486.088613,
-      1785733490.475291
+      1785820564.831983,
+      1785820573.005792,
+      1785820577.528668,
+      1785820583.184361,
+      1785820588.255039,
+      1785820594.348344,
+      1785820616.758744,
+      1785820620.759644,
+      1785820631.991111,
+      1785820645.221591,
+      1785820656.97081,
+      1785820662.075727,
+      1785820668.640158,
+      1785820676.473526,
+      1785820683.900145,
+      1785820688.831105,
+      1785820693.11418,
+      1785820697.711166,
+      1785820701.086515,
+      1785820705.680956
     ]
   },
   "vokabel_sitzung": {

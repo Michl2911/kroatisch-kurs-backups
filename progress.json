@@ -3111,7 +3111,23 @@
     "013-12",
     "013-13",
     "013-14",
-    "013-15"
+    "013-15",
+    "gru-027-01",
+    "gru-027-02",
+    "gru-027-03",
+    "gru-027-04",
+    "gru-027-05",
+    "gru-027-06",
+    "gru-027-07",
+    "gru-027-08",
+    "gru-027-09",
+    "gru-027-10",
+    "gru-027-11",
+    "gru-027-12",
+    "gru-027-13",
+    "gru-027-14",
+    "gru-027-15",
+    "gru-027-16"
   ],
   "aktueller_stand": {
     "naechste_lektion": 22,
@@ -3975,6 +3991,87 @@
           "kosten_usd": 0.007696
         },
         "abgeschlossen_am": "2026-08-02T20:16:25"
+      },
+      "10": {
+        "begonnen_am": "2026-08-06T15:37:28",
+        "antworten": {
+          "u5_0_0": "Mogu",
+          "u5_0_1": "možeš",
+          "u5_0_2": "može",
+          "u5_0_3": "možemo",
+          "u5_0_4": "možete",
+          "u5_0_5": "moži",
+          "u5_1_0": "spavam",
+          "u5_1_1": "spavaš",
+          "u5_1_2": "spava",
+          "u5_1_3": "spavamo",
+          "u5_1_4": "spavate",
+          "u5_1_5": "spavaju",
+          "u5_2_0": "gledam",
+          "u5_2_1": "gledaš",
+          "u5_2_2": "gleda",
+          "u5_2_3": "gledamo",
+          "u5_2_4": "gledate",
+          "u5_2_5": "gledaju",
+          "u5_3_1": "stana",
+          "u5_3_2": "stanu",
+          "u5_3_3": "stan",
+          "u5_3_4": "stani",
+          "u5_3_5": "stanu",
+          "u5_3_6": "stanem",
+          "u5_4_1": "velikog vrta",
+          "u5_4_2": "velikom vrtu",
+          "u5_4_3": "veliki vrt",
+          "u5_4_4": "veliki vrti",
+          "u5_4_5": "velikog vrtu",
+          "u5_4_6": "velikim vrtom",
+          "u5_5_1": "zagrade",
+          "u5_5_2": "zagradi",
+          "u5_5_3": "zagradu",
+          "u5_5_4": "zagradi",
+          "u5_5_5": "zagrado",
+          "u5_5_6": "zagradom",
+          "u6_1": "vrt - Garten; prozor - Fenster; zavjesa -Vorhang; stube -Treppe; vrata - Tür; zid - Wand; pod - Boden; Ekran - Bildschirm",
+          "u6_2": "c) vrt",
+          "u6_3_0": "Gdje",
+          "u6_3_1": "Kada",
+          "u6_3_2": "Kada",
+          "u6_4": "zid; strop; plafon; zgrada",
+          "u6_5_0": "gdje je tvoj stan?",
+          "u6_5_1": "Tko je na balkonu?",
+          "u6_5_2": "Kako velika je zavjesa?",
+          "u6_6": "Gdje je prozor?\r\nTko spava u sobi, osim tebe?\r\nKada otvoriš vratu?",
+          "u6_7_0": "Kako otvora Porozor?",
+          "u6_7_1": "Kako je vrt?",
+          "u6_7_2": "Gdje spava Ana?",
+          "u6_8": "Wie sieht euer Gebäude aus?\r\nWas ist auf dem Boden, außer der Decken?\r\nWann ziehst du die Vorhänge zu?",
+          "u6_9": "Tko je na balkonu?\r\ngdje je ekran?\r\nKada ideš stube?",
+          "u6_10": "Moj stan je malen, ali balkon je velik. Mogu vidjeti vrt. U mojom stani živi dvije mačke.",
+          "u8_frei": "Moj nov stan je malen, ali moj balkon je velik i vidim lijepi vrt. Za mene živi dvije mačke i moja cura u stanu. Uskoro hočemo živjeti u našu svojog kuču. \r\nGdje živiš? I kakav velik je tvoj stan?\r\nKad da dođemo u posjet?"
+        },
+        "selbstbewertung": {
+          "u6_1": "richtig",
+          "u6_4": "richtig",
+          "u6_5": "falsch",
+          "u6_6": "falsch",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "falsch",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n\n- Alles richtig! Nur \"Ekran\" sollte klein geschrieben werden: \"ekran\".\n\n### Übung 4\n\n- Alles korrekt, sehr gut!\n\n### Übung 5\n\n- a) Fast richtig, aber Satzanfang muss groß geschrieben werden: \"Gdje je tvoj stan?\"\n- b) Korrekt: \"Tko je na balkonu?\"\n- c) Die Wortstellung ist ungewöhnlich – besser: \"Kako je zavjesa velika?\" (Kako + Adjektiv passt hier gut zum Sinn \"wie groß\").\n\n### Übung 6\n\n- 1. Korrekt: \"Gdje je prozor?\"\n- 2. Korrekt: \"Tko spava u sobi, osim tebe?\"\n- 3. Fehler: \"vrata\" ist ein Pluralwort (immer Plural im Kroatischen), richtig wäre: \"Kada otvaraš vrata?\" (nicht \"vratu\", und \"otvoriš\" sollte \"otvaraš\" sein, da Präsens gemeint ist).\n\n### Übung 7\n\n- 1. Falsch – \"otvora\" und \"Porozor\" sind keine korrekten Formen. Besser: \"Je li prozor otvoren?\" oder \"Kakav je prozor?\"\n- 2. Fast richtig, aber bei Eigenschaften nutzt man \"kakav/kakva/kakvo\" statt \"kako\": \"Kakav je vrt?\"\n- 3. Korrekt: \"Gdje spava Ana?\"\n\n### Übung 8\n\n- 1. Korrekt: \"Wie sieht euer Gebäude aus?\"\n- 2. Kleiner Fehler: \"jorgan\" heißt \"Bettdecke\", nicht \"Decken\" (Plural) – richtig: \"Was ist auf dem Boden, außer der Bettdecke?\"\n- 3. Korrekt: \"Wann ziehst du die Vorhänge zu?\" (auch wenn \"zavjesu\" Singular ist, Übersetzung ist inhaltlich okay)\n\n### Übung 9\n\n- 1. Korrekt: \"Tko je na balkonu?\"\n- 2. Fast richtig, nur Satzanfang groß schreiben: \"Gdje je ekran?\"\n- 3. Fehler: \"ideš stube\" ist grammatisch nicht korrekt. Besser: \"Kada ideš uz stube?\" oder \"Kada ideš stubama?\"\n\n### Übung 10\n\n- Guter Versuch, aber zwei kleine Fehler: \"U mojom stani\" sollte \"U mom stanu\" heißen (Lokativ von \"stan\"). Ansonsten schöner, verständlicher Text mit zwei Fragewörtern wäre noch schöner gewesen – aktuell sind es keine Fragen an einen Freund, nur Aussagesätze. Versuch, mindestens zwei Fragen einzubauen, z. B. \"Gdje je tvoj stan?\" oder \"Kako izgleda tvoj vrt?\"",
+          "zeitpunkt": "2026-08-06T16:04:13",
+          "kosten_usd": 0.023652
+        },
+        "ki_korrektur": {
+          "text": "### Korrigierte Version\n\nMoj novi stan je malen, ali moj balkon je velik i vidim lijep vrt. Sa mnom u stanu žive dvije mačke i moja cura. Uskoro ćemo živjeti u našoj vlastitoj kući.\nGdje ti živiš? I kako je velik tvoj stan?\nKada ćemo doći u posjet?\n\n### Verbesserungshinweise\n\n- **Fragewörter:** \"kakav\" passt nicht für Größe – für \"wie groß\" sagt man auf Kroatisch \"kako je velik\" oder einfach \"koliko je velik\". \"Kakav\" fragt eher nach der Art/Beschaffenheit (z. B. \"Kakav je tvoj stan?\" = Wie ist deine Wohnung so?).\n- **\"Kad da dođemo\"** → besser einfach \"Kada ćemo doći...\" – \"da\" wird hier nicht gebraucht, das Fragewort \"kada\" reicht mit dem Futur.\n- **Wortstellung/Verb:** \"Za mene živi...\" klingt wie \"für mich lebt\" – gemeint ist wohl \"mit mir wohnen\" = \"Sa mnom žive...\". Auch das Verb muss zum Subjekt (dvije mačke i moja cura = Plural) passen: \"žive\", nicht \"živi\".\n- **\"hočemo\" → \"ćemo\"**, und \"u našu svojog kuću\" → \"u našoj vlastitoj kući\" (nach \"živjeti u\" braucht man den Lokativ, nicht den Akkusativ).\n\n### Lob\n\nSehr schön, dass du gleich drei verschiedene Fragewörter (gdje, kako/kakav, kada) eingebaut hast und der Text inhaltlich rund und persönlich wirkt – man merkt, dass du dich schon gut mit den neuen Vokabeln ausdrücken kannst!",
+          "zeitpunkt": "2026-08-06T16:27:51",
+          "kosten_usd": 0.008752
+        },
+        "abgeschlossen_am": "2026-08-06T16:30:03"
       }
     },
     "tests": {
@@ -6620,16 +6717,17 @@
     },
     "vw_215": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "gemeistert": false,
         "falsch_gesamt": 3,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-06",
-        "gemeistert": false
+        "box": 4,
+        "faellig_am": "2026-09-04",
+        "gemeistert": false,
+        "richtig_in_folge": 1
       }
     },
     "vw_216": {
@@ -7225,11 +7323,11 @@
     },
     "vw_265": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 5,
@@ -8233,11 +8331,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 1,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
-        "falsch_gesamt": 7,
-        "richtig_in_folge": 2
+        "falsch_gesamt": 9,
+        "richtig_in_folge": 1
       }
     },
     "vw_349": {
@@ -8259,11 +8357,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "gemeistert": false,
         "falsch_gesamt": 5,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       }
     },
     "vw_351": {
@@ -8717,11 +8815,11 @@
     },
     "vw_388": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 3,
@@ -8893,11 +8991,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 1,
+        "faellig_am": "2026-08-07",
         "gemeistert": false,
-        "falsch_gesamt": 6,
-        "richtig_in_folge": 2
+        "falsch_gesamt": 7,
+        "richtig_in_folge": 1
       }
     },
     "vw_403": {
@@ -9223,11 +9321,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       }
     },
     "vw_430": {
@@ -10614,11 +10712,11 @@
     },
     "vw_544": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-06",
+        "box": 2,
+        "faellig_am": "2026-08-09",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 3,
@@ -11808,10 +11906,10 @@
     },
     "007-02": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-06",
+        "box": 2,
+        "faellig_am": "2026-08-09",
         "falsch_gesamt": 1,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -12178,10 +12276,10 @@
     },
     "eigen_3": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "falsch_gesamt": 1,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "gemeistert": false
       },
       "hr_de": {
@@ -12204,10 +12302,10 @@
     },
     "009-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "gemeistert": false
       },
       "hr_de": {
@@ -12404,38 +12502,38 @@
     },
     "eigen_5": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-03": {
@@ -12447,43 +12545,43 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-04": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "falsch_gesamt": 1,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 2,
+        "richtig_in_folge": 1,
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-05": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-06": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "falsch_gesamt": 1,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 2,
+        "richtig_in_folge": 1,
         "gemeistert": false
       },
       "hr_de": {
@@ -12496,54 +12594,56 @@
     },
     "011-07": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-08": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "falsch_gesamt": 1,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 2,
+        "richtig_in_folge": 1,
         "gemeistert": false
       }
     },
     "011-09": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       }
     },
     "011-10": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 3,
+        "richtig_in_folge": 1,
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-11": {
@@ -12555,9 +12655,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-12": {
@@ -12569,54 +12669,54 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
+        "box": 3,
+        "faellig_am": "2026-08-15",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "011-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       }
     },
     "eigen_6": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 2,
@@ -12628,9 +12728,9 @@
     },
     "eigen_7": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-06",
-        "richtig_in_folge": 2
+        "box": 3,
+        "faellig_am": "2026-08-15",
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 2,
@@ -12638,6 +12738,204 @@
         "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
+      }
+    },
+    "eigen_8": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "eigen_9": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      }
+    },
+    "010-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 2,
+        "faellig_am": "2026-08-09",
+        "richtig_in_folge": 2
+      }
+    },
+    "010-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      }
+    },
+    "010-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-07",
+        "richtig_in_folge": 1
       }
     }
   },
@@ -12695,15 +12993,20 @@
       "id": "eigen_9",
       "de": "Passt! Okay!",
       "hr": "Važi!"
+    },
+    {
+      "id": "eigen_10",
+      "de": "zu Besuch",
+      "hr": "u posjet"
     }
   ],
   "statistik": {
-    "aktueller_streak": 17,
-    "laengster_streak": 17,
-    "letzter_aktiver_tag": "2026-08-05",
-    "heute_datum": "2026-08-05",
-    "antworten_heute": 35,
-    "gesamt_beantwortet": 3343,
+    "aktueller_streak": 18,
+    "laengster_streak": 18,
+    "letzter_aktiver_tag": "2026-08-06",
+    "heute_datum": "2026-08-06",
+    "antworten_heute": 86,
+    "gesamt_beantwortet": 3429,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -12762,31 +13065,31 @@
         "datum": "2026-08-03"
       }
     ],
-    "fehler_heute": 2,
-    "max_faellig_datum": "2026-08-05",
-    "max_faellig_heute": 33,
-    "aktive_tage": 5,
+    "fehler_heute": 11,
+    "max_faellig_datum": "2026-08-06",
+    "max_faellig_heute": 42,
+    "aktive_tage": 6,
     "letzte_antwortzeiten": [
-      1785907350.603557,
-      1785907358.574828,
-      1785907364.239603,
-      1785907374.866537,
-      1785907379.596276,
-      1785907391.053256,
-      1785907396.725546,
-      1785907442.719081,
-      1785907448.567189,
-      1785907456.14508,
-      1785907464.572616,
-      1785907469.437837,
-      1785907474.426988,
-      1785907480.256892,
-      1785907488.310475,
-      1785907494.077247,
-      1785907500.577416,
-      1785907506.872668,
-      1785907514.523365,
-      1785907521.55169
+      1786031246.5427,
+      1786031254.830748,
+      1786031262.907989,
+      1786031271.670519,
+      1786031276.720061,
+      1786031281.662399,
+      1786031293.270419,
+      1786031299.299847,
+      1786031307.233483,
+      1786031317.305283,
+      1786031335.200243,
+      1786031340.760262,
+      1786031345.806179,
+      1786031350.219991,
+      1786031355.325907,
+      1786031360.554793,
+      1786031367.593191,
+      1786031373.172774,
+      1786031377.30329,
+      1786031387.136615
     ]
   },
   "vokabel_sitzung": {
@@ -12795,28 +13098,19 @@
     "gesamt": 0
   },
   "einpraegen_ids": [
-    "eigen_8",
-    "eigen_9"
+    "eigen_10"
   ],
   "einpraegen_sitzung": {
-    "warteschlange": [
-      {
-        "id": "eigen_8",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "eigen_9",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "eigen_9",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "eigen_8",
-        "richtung": "de_hr"
-      }
-    ],
-    "begonnen": true
+    "warteschlange": [],
+    "begonnen": false
+  },
+  "kursgruppen_fortschritt": {
+    "kroatisch_a1": {
+      "abgeschlossene_lektionen": [
+        27
+      ],
+      "bestandene_tests": [],
+      "bearbeitungsstand": {}
+    }
   }
 }

@@ -5,7 +5,8 @@
     "passwort_hash": "scrypt:32768:8:1$Kce457Sqve7RHu8C$0208b0a40d3f55e66374ae021825e456ed98e540f801917ba84e3553f68983f188e0826257a74340f779bf55dc0bb429e442037246d7e9366eed054c90ffb0e6",
     "progress_datei": "progress.json",
     "kursgruppen": [
-      "haupt"
+      "haupt",
+      "kroatisch_a1"
     ],
     "rolle": "admin"
   },

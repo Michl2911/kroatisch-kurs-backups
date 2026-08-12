@@ -3256,7 +3256,25 @@
     "017-12",
     "017-13",
     "017-14",
-    "017-15"
+    "017-15",
+    "gru-009-01",
+    "gru-009-02",
+    "gru-009-03",
+    "gru-009-04",
+    "gru-009-05",
+    "gru-009-06",
+    "gru-009-07",
+    "gru-009-08",
+    "gru-009-09",
+    "gru-009-10",
+    "gru-009-11",
+    "gru-009-12",
+    "gru-009-13",
+    "gru-009-14",
+    "gru-009-15",
+    "gru-009-16",
+    "gru-009-17",
+    "gru-009-18"
   ],
   "aktueller_stand": {
     "naechste_lektion": 22,
@@ -5223,10 +5241,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
+        "box": 4,
+        "faellig_am": "2026-09-09",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_076": {
@@ -5967,10 +5985,10 @@
     },
     "vw_136": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
+        "box": 4,
+        "faellig_am": "2026-09-09",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 3,
@@ -8571,11 +8589,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
+        "box": 3,
+        "faellig_am": "2026-08-20",
         "gemeistert": false,
         "falsch_gesamt": 6,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       }
     },
     "vw_348": {
@@ -8601,9 +8619,9 @@
       },
       "hr_de": {
         "box": 1,
-        "faellig_am": "2026-08-11",
+        "faellig_am": "2026-08-12",
         "gemeistert": false,
-        "falsch_gesamt": 3,
+        "falsch_gesamt": 4,
         "richtig_in_folge": 1
       }
     },
@@ -8662,10 +8680,10 @@
     },
     "vw_354": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
+        "box": 2,
+        "faellig_am": "2026-08-14",
         "gemeistert": false,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1
       },
       "hr_de": {
@@ -9270,11 +9288,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
+        "box": 1,
+        "faellig_am": "2026-08-12",
         "gemeistert": false,
-        "falsch_gesamt": 8,
-        "richtig_in_folge": 2
+        "falsch_gesamt": 9,
+        "richtig_in_folge": 1
       }
     },
     "vw_403": {
@@ -11696,10 +11714,10 @@
     },
     "003-10": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
+        "box": 4,
+        "faellig_am": "2026-09-09",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -11860,10 +11878,11 @@
     },
     "004-14": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
+        "box": 1,
+        "faellig_am": "2026-08-12",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 1
       },
       "hr_de": {
         "box": 4,
@@ -12303,10 +12322,10 @@
     },
     "007-06": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
+        "box": 4,
+        "faellig_am": "2026-09-09",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -12493,9 +12512,9 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-14",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -12514,10 +12533,10 @@
     },
     "008-07": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
+        "box": 2,
+        "faellig_am": "2026-08-14",
         "gemeistert": false,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1
       },
       "hr_de": {
@@ -12542,10 +12561,10 @@
     "008-09": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-08-11",
+        "faellig_am": "2026-08-12",
         "gemeistert": false,
         "richtig_in_folge": 1,
-        "falsch_gesamt": 1
+        "falsch_gesamt": 2
       },
       "hr_de": {
         "box": 3,
@@ -12571,9 +12590,9 @@
     },
     "008-11": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-14",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -12641,9 +12660,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 1
+        "box": 4,
+        "faellig_am": "2026-09-09",
+        "richtig_in_folge": 2
       }
     },
     "eigen_4": {
@@ -12689,11 +12708,11 @@
     },
     "009-03": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
+        "box": 1,
+        "faellig_am": "2026-08-12",
         "gemeistert": false,
-        "falsch_gesamt": 5,
-        "richtig_in_folge": 2
+        "falsch_gesamt": 7,
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 3,
@@ -12910,10 +12929,10 @@
     },
     "011-04": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
+        "box": 2,
+        "faellig_am": "2026-08-14",
         "falsch_gesamt": 3,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -13006,10 +13025,10 @@
     },
     "011-11": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
+        "box": 3,
+        "faellig_am": "2026-08-20",
         "falsch_gesamt": 4,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "gemeistert": false
       },
       "hr_de": {
@@ -13117,10 +13136,10 @@
         "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
-        "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-08-12",
+        "falsch_gesamt": 3,
+        "richtig_in_folge": 1,
         "gemeistert": false
       }
     },
@@ -13274,9 +13293,9 @@
     },
     "010-14": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 2,
+        "box": 3,
+        "faellig_am": "2026-08-20",
+        "richtig_in_folge": 3,
         "falsch_gesamt": 2,
         "gemeistert": false
       },
@@ -13288,9 +13307,9 @@
     },
     "010-15": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 2,
+        "box": 3,
+        "faellig_am": "2026-08-20",
+        "richtig_in_folge": 3,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -13424,9 +13443,9 @@
     },
     "030-05": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-14",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 3,
         "gemeistert": false
       },
@@ -13488,9 +13507,9 @@
     },
     "030-10": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-11",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-14",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -13627,15 +13646,30 @@
       "id": "eigen_11",
       "de": "Das ist alles",
       "hr": "To je to"
+    },
+    {
+      "id": "eigen_12",
+      "de": "Luftmatratze",
+      "hr": "luftmadrac (zračni madrac)"
+    },
+    {
+      "id": "eigen_13",
+      "de": "Schatten",
+      "hr": "hlad"
+    },
+    {
+      "id": "eigen_14",
+      "de": "Sonnenbrille",
+      "hr": "Sunčanice"
     }
   ],
   "statistik": {
-    "aktueller_streak": 22,
-    "laengster_streak": 22,
-    "letzter_aktiver_tag": "2026-08-10",
-    "heute_datum": "2026-08-10",
-    "antworten_heute": 144,
-    "gesamt_beantwortet": 3875,
+    "aktueller_streak": 23,
+    "laengster_streak": 23,
+    "letzter_aktiver_tag": "2026-08-11",
+    "heute_datum": "2026-08-11",
+    "antworten_heute": 29,
+    "gesamt_beantwortet": 3904,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -13694,31 +13728,31 @@
         "datum": "2026-08-03"
       }
     ],
-    "fehler_heute": 12,
-    "max_faellig_datum": "2026-08-10",
-    "max_faellig_heute": 132,
-    "aktive_tage": 10,
+    "fehler_heute": 7,
+    "max_faellig_datum": "2026-08-11",
+    "max_faellig_heute": 22,
+    "aktive_tage": 11,
     "letzte_antwortzeiten": [
-      1786396435.835435,
-      1786396442.5163,
-      1786396451.535995,
-      1786396457.261284,
-      1786396461.46506,
-      1786396467.633003,
-      1786396473.194251,
-      1786396479.036017,
-      1786396488.280513,
-      1786396495.287493,
-      1786396503.587907,
-      1786396511.128807,
-      1786396516.193219,
-      1786396521.890176,
-      1786396527.196131,
-      1786396531.98799,
-      1786396538.97577,
-      1786396570.00691,
-      1786396574.277406,
-      1786396581.226988
+      1786431204.250487,
+      1786431218.905408,
+      1786431224.152034,
+      1786431229.534095,
+      1786431239.039816,
+      1786431246.416284,
+      1786431257.657824,
+      1786431265.467034,
+      1786431281.526553,
+      1786431290.340445,
+      1786431297.872129,
+      1786431313.912006,
+      1786431332.668399,
+      1786431339.488056,
+      1786431346.407277,
+      1786431356.504436,
+      1786431361.399732,
+      1786431369.312095,
+      1786431372.986658,
+      1786431379.781248
     ]
   },
   "vokabel_sitzung": {
@@ -13727,7 +13761,10 @@
     "gesamt": 0
   },
   "einpraegen_ids": [
-    "eigen_11"
+    "eigen_11",
+    "eigen_12",
+    "eigen_13",
+    "eigen_14"
   ],
   "einpraegen_sitzung": {
     "warteschlange": [],
@@ -13741,7 +13778,8 @@
         2,
         3,
         17,
-        4
+        4,
+        9
       ],
       "bestandene_tests": [],
       "bearbeitungsstand": {

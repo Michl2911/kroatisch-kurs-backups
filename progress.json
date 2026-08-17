@@ -4397,7 +4397,85 @@
         },
         "abgeschlossen_am": "2026-08-14T16:56:21"
       },
-      "13": {}
+      "13": {
+        "begonnen_am": "2026-08-16T14:08:49",
+        "antworten": {
+          "u5_0_0": "imam",
+          "u5_0_1": "imaš",
+          "u5_0_2": "ima",
+          "u5_0_3": "imamo",
+          "u5_0_4": "imate",
+          "u5_0_5": "imaju",
+          "u5_1_0": "naručivam",
+          "u5_1_1": "naručivaš",
+          "u5_1_2": "naručiva",
+          "u5_1_3": "naručivamo",
+          "u5_1_4": "naručivate",
+          "u5_1_5": "naručivaju",
+          "u5_2_0": "kišim",
+          "u5_3_0": "moj bratić",
+          "u5_3_1": "mog bratića",
+          "u5_3_2": "mom bratiću",
+          "u5_3_3": "mog bratića",
+          "u5_3_4": "moj bratiće",
+          "u5_3_5": "mom bratiću",
+          "u5_3_6": "mojim bratićem ",
+          "u5_4_0": "naša obiteljska fotografija ",
+          "u5_4_1": "naše obiteljske fotografije",
+          "u5_4_2": "našoj obiteljski fotografiji",
+          "u5_4_3": "našu obiteljsku fotografiju",
+          "u5_4_4": "naša obiteljsko fotografijo",
+          "u5_4_5": "našoj obiteljski fotografiji",
+          "u5_4_6": "našom obiteljskom fotografijom",
+          "u5_5_0": "vaš unuk",
+          "u5_5_1": "vašeg unuka",
+          "u5_5_2": "vašem unuku",
+          "u5_5_3": "vašeg unuka",
+          "u5_5_4": "vaši unuke",
+          "u5_5_5": "vašem unuku",
+          "u5_5_6": "Vašom unukom",
+          "u6_1": "1.C. - 2.F. - 3.D. - 4.E. - 5.A. - 6.G. - 7.B. - 8.H.",
+          "u6_2_0": "moja",
+          "u6_3_0": "moja",
+          "u6_3_1": "Moj",
+          "u6_3_2": "njezina",
+          "u6_3_3": "Vaš",
+          "u6_4_0": "Braća i sestre, unuk, bratić, tata, mobitel.",
+          "u6_5_0": "Njegov",
+          "u6_5_1": "njezina",
+          "u6_5_2": "njegov",
+          "u6_6_0": "Ovo je moja obiteljska fotografija i to je moj mobitel. Vaš tata je oženjen, a vaš bratić je u gradu.",
+          "u6_7": "Njegov unuk je u šuma.\r\nNaša obiteljska fotografija je u gradu.\r\nOvo je vaš bratić i on je moj školski prijatelji.",
+          "u6_8_0": "Njegov bratić je u gradu.",
+          "u6_8_1": "Njezina unuka je dimaćica.",
+          "u6_9_0": "Sein Enkel und Seine Enkelin sind Schulfreunde. Wir sehen uns in der Stadt, dein Freund ist schon dort.",
+          "u6_10": "Moj obitelj je velik. Moj brat je imali rođendan sutra. Koliko ima godina tvoj dečko?",
+          "u8_frei": "Bok prijatelj. Danas ću ti ispričati o mojoj obitelji. Moj roditelji je oženjen od trideset jedan godina. Moja mama je medicinska sestra i moj tata ne radi. Imam sestra i brat i puno sestrične i bratića. Smo velika obitelj. Je li tvoj obitelj velika?"
+        },
+        "selbstbewertung": {
+          "u6_1": "richtig",
+          "u6_4": "richtig",
+          "u6_5": "falsch",
+          "u6_6": "falsch",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "falsch",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n\n- Alles korrekt! Alle Zuordnungen stimmen.\n\n### Übung 4\n\n- Alles korrekt übersetzt!\n\n### Übung 5\n\n- Fast perfekt: nur 1. sollte klein geschrieben werden: \"njegov bratić je u šumi.\" Ansonsten korrekt.\n\n### Übung 6\n\n- Kleine Ungenauigkeit: Bei Satz 1 sollte \"dein Handy\" mit \"tvoj\" übersetzt werden, nicht \"moj\". Richtig: \"Ovo je moja obiteljska fotografija i to je tvoj mobitel. Naš tata je oženjen, a vaš bratić je u gradu.\"\n- Achtung: \"unser Papa\" braucht \"naš\", nicht \"vaš\".\n\n### Übung 7\n\n- Kleine Fehler bei Kasus/Wortstellung:\n  1. \"Njegov unuk je u šumi.\" (šuma → šumi im Lokativ)\n  2. Richtig: \"Naša obiteljska fotografija je u gradu.\"\n  3. Zu frei übersetzt - im Original sollte kein zusätzliches \"Ovo je\" und \"on je\" stehen. Besser: \"Vaš bratić i školski prijatelji.\"\n\n### Übung 8\n\n- Kleiner Tippfehler bei 2: \"dimaćica\" statt \"domaćica\". Ansonsten beide korrekt (njegov/njezina richtig verwendet).\n\n### Übung 9\n\n- Kleine Großschreibung: \"Seine\" sollte klein geschrieben werden: \"Sein Enkel und seine Enkelin sind Schulfreunde. Wir sehen uns in der Stadt, dein Freund ist schon dort.\" Inhaltlich korrekt.\n\n### Übung 10\n\n- Gute Ansätze, aber einige Fehler:\n  - \"Moja obitelj je velika.\" (obitelj ist weiblich, daher \"moja\" und \"velika\")\n  - \"Moj brat ima rođendan sutra.\" (nicht \"je imali\", das ist falsche Verbform)\n  - \"Koliko godina ima tvoj dečko?\" (Wortstellung anpassen)\n- Tipp: Achte auf Genus der Nomen (obitelj ist weiblich) und auf die richtige Verbform im Präsens.",
+          "zeitpunkt": "2026-08-16T14:22:38",
+          "kosten_usd": 0.012952
+        },
+        "ki_korrektur": {
+          "text": "### Korrigierte Version\n\nBok prijatelju. Danas ću ti ispričati o mojoj obitelji. Moji roditelji su oženjeni trideset jednu godinu. Moja mama je medicinska sestra i moj tata ne radi. Imam sestru i brata i puno sestrična i bratića. Mi smo velika obitelj. Je li tvoja obitelj velika?\n\n### Verbesserungshinweise\n\n- **Moji roditelji** – \"roditelji\" (Eltern) ist Plural, also braucht es auch das Possessivpronomen im Plural: *moji* statt *moj*, und das Verb dazu *su* statt *je*.\n- **oženjeni** – bei mehreren Personen (den Eltern) muss auch das Adjektiv im Plural stehen: *oženjeni*, nicht *oženjen*.\n- **tvoja obitelj** – \"obitelj\" ist im Kroatischen weiblich, deshalb heißt es *tvoja* (nicht *tvoj*) – genau wie du es bei \"moja obitelj\" schon richtig gemacht hast!\n- **Smo velika obitelj** – hier fehlt das Personalpronomen *Mi* vor *smo*, das im Kroatischen bei dieser Betonung oft mitgeschrieben wird: *Mi smo velika obitelj*.\n- Kleinigkeit: *sestru* und *bratа* stehen nach *imam* im Akkusativ, nicht im Nominativ – das kommt aber später dran, kein Problem für jetzt!\n\n### Lob\n\nSehr schön gemacht – dein Text ist klar strukturiert, die Possessivpronomen *moja*, *moj* und *tvoj* setzt du schon größtenteils richtig ein, und der Inhalt liest sich sehr persönlich und natürlich!",
+          "zeitpunkt": "2026-08-16T14:35:37",
+          "kosten_usd": 0.00847
+        },
+        "abgeschlossen_am": "2026-08-16T14:36:26"
+      }
     },
     "tests": {
       "T1": {
@@ -6178,11 +6256,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 4,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
         "falsch_gesamt": 4,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       }
     },
     "vw_143": {
@@ -8717,11 +8795,11 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
+        "box": 2,
+        "faellig_am": "2026-08-19",
         "gemeistert": false,
         "falsch_gesamt": 5,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_350": {
@@ -9375,11 +9453,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-16",
+        "box": 3,
+        "faellig_am": "2026-08-25",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       }
     },
     "vw_402": {
@@ -10327,11 +10405,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 4,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       }
     },
     "vw_479": {
@@ -11751,11 +11829,11 @@
     },
     "003-15": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 1,
+        "faellig_am": "2026-08-17",
         "gemeistert": false,
-        "falsch_gesamt": 2,
-        "richtig_in_folge": 3
+        "falsch_gesamt": 3,
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 4,
@@ -12259,11 +12337,11 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 4,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       }
     },
     "006-10": {
@@ -12568,10 +12646,10 @@
     },
     "008-03": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-16",
+        "box": 3,
+        "faellig_am": "2026-08-25",
         "gemeistert": false,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "falsch_gesamt": 1
       },
       "hr_de": {
@@ -12865,11 +12943,11 @@
     },
     "009-08": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 4,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -13058,9 +13136,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 3,
+        "box": 4,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 4,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -13093,9 +13171,9 @@
     },
     "011-09": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-19",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -13137,16 +13215,16 @@
     },
     "011-12": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
+        "box": 4,
+        "faellig_am": "2026-09-14",
         "falsch_gesamt": 3,
-        "richtig_in_folge": 3,
+        "richtig_in_folge": 4,
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-19",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -13179,9 +13257,9 @@
     },
     "011-15": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-19",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -13212,9 +13290,9 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 3,
+        "box": 4,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 4,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -13733,10 +13811,10 @@
     },
     "012-01": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
+        "box": 2,
+        "faellig_am": "2026-08-19",
         "falsch_gesamt": 3,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -13857,9 +13935,9 @@
     },
     "012-11": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-19",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -13895,9 +13973,9 @@
     },
     "012-14": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-19",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 2,
         "gemeistert": false
       },
@@ -13914,11 +13992,197 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-16",
+        "box": 2,
+        "faellig_am": "2026-08-19",
         "falsch_gesamt": 3,
+        "richtig_in_folge": 2,
+        "gemeistert": false
+      }
+    },
+    "013-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "falsch_gesamt": 1,
         "richtig_in_folge": 1,
         "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      }
+    },
+    "013-03": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      }
+    },
+    "013-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-17",
+        "richtig_in_folge": 1
       }
     }
   },
@@ -14004,12 +14268,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 27,
-    "laengster_streak": 27,
-    "letzter_aktiver_tag": "2026-08-15",
-    "heute_datum": "2026-08-15",
-    "antworten_heute": 88,
-    "gesamt_beantwortet": 4183,
+    "aktueller_streak": 28,
+    "laengster_streak": 28,
+    "letzter_aktiver_tag": "2026-08-16",
+    "heute_datum": "2026-08-16",
+    "antworten_heute": 52,
+    "gesamt_beantwortet": 4235,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -14068,31 +14332,31 @@
         "datum": "2026-08-03"
       }
     ],
-    "fehler_heute": 11,
-    "max_faellig_datum": "2026-08-15",
-    "max_faellig_heute": 77,
-    "aktive_tage": 15,
+    "fehler_heute": 4,
+    "max_faellig_datum": "2026-08-16",
+    "max_faellig_heute": 30,
+    "aktive_tage": 16,
     "letzte_antwortzeiten": [
-      1786787066.818842,
-      1786787072.251927,
-      1786787076.13573,
-      1786787079.67413,
-      1786787086.014045,
-      1786787091.63552,
-      1786787100.457612,
-      1786787112.713624,
-      1786787123.885214,
-      1786787136.360502,
-      1786787142.366874,
-      1786787148.545698,
-      1786787160.607822,
-      1786787176.86585,
-      1786787187.826117,
-      1786787201.035099,
-      1786787206.355222,
-      1786787213.65898,
-      1786787218.325554,
-      1786787227.84427
+      1786888630.643377,
+      1786888640.415415,
+      1786888652.378074,
+      1786888662.139882,
+      1786888668.171887,
+      1786888672.290393,
+      1786888676.198916,
+      1786888682.80292,
+      1786888695.07903,
+      1786888709.672056,
+      1786888725.163056,
+      1786888731.013576,
+      1786888737.973395,
+      1786888742.712893,
+      1786888746.006729,
+      1786888749.173835,
+      1786888753.184392,
+      1786888758.731487,
+      1786888777.133081,
+      1786888783.129911
     ]
   },
   "vokabel_sitzung": {
@@ -14100,23 +14364,7 @@
     "richtig": 0,
     "gesamt": 0
   },
-  "einpraegen_ids": [
-    "013-01",
-    "013-02",
-    "013-03",
-    "013-04",
-    "013-05",
-    "013-06",
-    "013-07",
-    "013-08",
-    "013-09",
-    "013-10",
-    "013-11",
-    "013-12",
-    "013-13",
-    "013-14",
-    "013-15"
-  ],
+  "einpraegen_ids": [],
   "einpraegen_sitzung": {
     "warteschlange": [],
     "begonnen": false

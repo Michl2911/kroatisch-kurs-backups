@@ -4491,6 +4491,86 @@
           "kosten_usd": 0.00847
         },
         "abgeschlossen_am": "2026-08-16T14:36:26"
+      },
+      "14": {
+        "begonnen_am": "2026-08-21T10:15:18",
+        "antworten": {
+          "u5_0_0": "otvaram",
+          "u5_0_1": "otvaraš",
+          "u5_0_2": "otvara",
+          "u5_0_3": "otvaramo",
+          "u5_0_4": "otvarate",
+          "u5_0_5": "otvaraju",
+          "u5_1_0": "sam",
+          "u5_1_1": "si",
+          "u5_1_2": "je",
+          "u5_1_3": "smo",
+          "u5_1_4": "ste",
+          "u5_1_5": "su",
+          "u5_2_0": "imam",
+          "u5_2_1": "imaš",
+          "u5_2_2": "ima",
+          "u5_2_3": "imamo",
+          "u5_2_4": "imate",
+          "u5_2_5": "imaju",
+          "u5_3_1": "centra",
+          "u5_3_2": "centru",
+          "u5_3_3": "centar",
+          "u5_3_4": "centri",
+          "u5_3_5": "centru",
+          "u5_3_6": "centrom",
+          "u5_4_1": "lijepe crkve",
+          "u5_4_2": "lijepoj crkvi",
+          "u5_4_3": "lijepu crkvu",
+          "u5_4_4": "lijepa crkvo",
+          "u5_4_5": "lijepoj crkvi",
+          "u5_4_6": "lijepom crkvom",
+          "u5_5_1": "kazališta",
+          "u5_5_2": "kazalištu",
+          "u5_5_3": "kazalište ",
+          "u5_5_4": "kazališti",
+          "u5_5_5": "kazalištu",
+          "u5_5_6": "kazalištem",
+          "u6_1": "Zentrum-centar / Kirche-crkva/ Museum-muzej / Kino-kino / Bibliothek-knjižnica / Apotheke-ljekarna / Brücke-most",
+          "u6_2_0": "u",
+          "u6_3_0": "centru",
+          "u6_3_1": "knjižnici",
+          "u6_3_2": "raskrižju",
+          "u6_3_3": "kinu",
+          "u6_4_0": "znatiželjana",
+          "u6_5_0": "muzjeu",
+          "u6_5_1": "ljekarni",
+          "u6_5_2": "mostu",
+          "u6_6": "Ja sam sam u muzjeu.\r\nKažaliste je u centru.\r\nGdje je knjižnica. Je li na raskrižju?",
+          "u6_7": "Luka je u crkvi.\r\nMi stojimo na mostu.\r\nSophia je na kažalistu.",
+          "u6_8": "Sophia je znatiželjana u muzjeu.\r\nČeka dan raskrižje na autu.\r\nCrkva je u daljini.",
+          "u6_9": "Ich eröffne die Apotheke im Stadtzentrum.\r\nDie Bibliothek ist dort, an der Kreuzung.\r\nIn der Ferne ist das Rathaus.",
+          "u6_10": "U mojom selu nije gradska vijećnica. Živu samo dva sto ljudi ondje.\r\nAli pekarnica je u crkvi.",
+          "u8_frei": "Danas pišem o svom gradu. Živim u Beču. To je velik i vrlo lijep grad u Austriji. Ne znam gdje je knjižnica, ali ovdje ima punu crkvu. I ima isto puna restorana i puni pivnici. Volim dobra hrana i također ima dobro pivo u Austriji."
+        },
+        "selbstbewertung": {
+          "u6_1": "richtig",
+          "u6_4": "falsch",
+          "u6_5": "falsch",
+          "u6_6": "falsch",
+          "u6_7": "falsch",
+          "u6_8": "falsch",
+          "u6_9": "richtig",
+          "u6_10": "falsch"
+        },
+        "korrigiert": true,
+        "status": "abgeschlossen",
+        "ki_korrektur_abschnitt6": {
+          "text": "### Übung 1\n\n- Alles korrekt! Sehr gut zugeordnet.\n\n### Übung 4\n\n- Fast richtig, kleiner Tippfehler: Es muss **znatiželjna** heißen (nicht \"znatiželjana\").\n- Denk an die Adjektivform für feminin: znatiželjan → znatiželjna.\n\n### Übung 5\n\n- muzej → **muzeju** (nicht \"muzjeu\" – Reihenfolge der Buchstaben vertauscht)\n- ljekarna → ljekarni ✓\n- most → mostu ✓\n\n### Übung 6\n\n- Satz 1: \"Ja sam sam u muzjeu.\" → korrekt: **Ja sam sam u muzeju.** (Tippfehler bei \"muzeju\")\n- Satz 2: \"Kažaliste je u centru.\" → korrekt: **Kazalište je u centru.** (Rechtschreibung: kazalište, nicht kažaliste)\n- Satz 3: Fast korrekt, aber Frage 1 braucht ein Fragezeichen: **Gdje je knjižnica? Je li na raskrižju?**\n\n### Übung 7\n\n- Satz 1: korrekt – Luka je u crkvi. ✓\n- Satz 2: korrekt – Mi stojimo na mostu. ✓\n- Satz 3: \"Sophia je na kažalistu.\" → korrekt: **Sophia je u kazalištu.** \n  - Rechtschreibung: kazalište, nicht kažaliste.\n  - Präposition: bei \"kazalište\" verwendet man **u**, nicht \"na\" (geschlossener Raum).\n\n### Übung 8\n\n- Satz 1: \"Sophia je znatiželjana u muzjeu.\" → korrekt: **Sophia je znatiželjna u muzeju.**\n  - Adjektivform: znatiželjna (nicht znatiželjana)\n  - Rechtschreibung: muzeju (nicht muzjeu)\n- Satz 2: \"Čeka dan raskrižje na autu.\" → korrekt: **Auto čeka dan na raskrižju.**\n  - Satzstellung: Subjekt (auto) sollte vorne stehen, \"raskrižje\" muss im Lokativ stehen (na raskrižju).\n- Satz 3: korrekt – Crkva je u daljini. ✓\n\n### Übung 9\n\n- Alle drei Übersetzungen korrekt! Sehr gut verstanden.\n\n### Übung 10\n\n- Kreative Idee, aber ein paar Korrekturen nötig:\n  - \"U mojom selu nije gradska vijećnica.\" → korrekt: **U mom selu nema gradske vijećnice.** \n    - Lokativ von \"moje selo\" ist \"mom selu\" (nicht \"mojom\" – das ist Instrumental).\n    - Für \"es gibt kein/keine...\" nutzt man **nema + Genitiv**, nicht \"nije\".\n  - \"Živu samo dva sto ljudi ondje.\" → korrekt: **Živi samo dvjesto ljudi ondje.**\n    - 3. Person Plural von \"živjeti\" ist \"žive\" (hier passt aber \"živi\" wegen unpersönlicher Konstruktion mit Zahl).\n    - \"dvjesto\" (zweihundert) wird als ein Wort geschrieben.\n  - \"Ali pekarnica je u crkvi.\" → grammatisch korrekt (Lokativ richtig gebildet!), aber inhaltlich etwas unüblich (eine Bäckerei in einer Kirche 😊). Vielleicht war \"pored crkve\" (neben der Kirche) gemeint?",
+          "zeitpunkt": "2026-08-21T10:33:48",
+          "kosten_usd": 0.025408
+        },
+        "ki_korrektur": {
+          "text": "### Korrigierte Version\n\nDanas pišem o svom gradu. Živim u Beču. To je velik i vrlo lijep grad u Austriji. Ne znam gdje je knjižnica, ali ovdje ima puno crkvi. I isto ima puno restorana i puno pivnica. Volim dobru hranu i također ima dobro pivo u Austriji.\n\n### Verbesserungshinweise\n\n- Nach **puno/puna** (viel/e) steht im Kroatischen der Genitiv Plural, nicht der Akkusativ: also *puno crkvi*, *puno restorana*, *puno pivnica* - nicht \"punu crkvu\" oder \"puni pivnici\".\n- **Volim** braucht ein Akkusativ-Objekt: *dobru hranu* (nicht \"dobra hrana\", das wäre Nominativ).\n- Da im Text der Lokativ-Fokus liegt: du hättest hier super Sätze wie *\"Bila sam u centru\"* oder *\"Crkva je na trgu\"* einbauen können, um Orte genauer zu beschreiben - das würde den Text noch passender zum Thema machen.\n\n### Lob\n\nSehr schön, wie du den Text klar strukturiert und mit einfachen, verständlichen Sätzen über deine Stadt geschrieben hast - der Inhalt ist authentisch und gut lesbar!",
+          "zeitpunkt": "2026-08-21T11:01:14",
+          "kosten_usd": 0.006796
+        },
+        "abgeschlossen_am": "2026-08-21T11:03:10"
       }
     },
     "tests": {
@@ -8796,11 +8876,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-21",
+        "box": 4,
+        "faellig_am": "2026-09-19",
         "gemeistert": false,
         "falsch_gesamt": 13,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       }
     },
     "vw_349": {
@@ -9788,11 +9868,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-21",
+        "box": 1,
+        "faellig_am": "2026-08-22",
         "gemeistert": false,
-        "falsch_gesamt": 3,
-        "richtig_in_folge": 3
+        "falsch_gesamt": 4,
+        "richtig_in_folge": 1
       }
     },
     "vw_428": {
@@ -10097,11 +10177,11 @@
     },
     "vw_452": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-21",
+        "box": 1,
+        "faellig_am": "2026-08-22",
         "gemeistert": false,
-        "falsch_gesamt": 3,
-        "richtig_in_folge": 3
+        "falsch_gesamt": 4,
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 5,
@@ -11574,9 +11654,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-08-21",
-        "gemeistert": false
+        "box": 5,
+        "faellig_am": "2026-11-19",
+        "gemeistert": false,
+        "richtig_in_folge": 1
       }
     },
     "003-12": {
@@ -11791,9 +11872,11 @@
     },
     "001-06": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-08-21",
-        "gemeistert": false
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "gemeistert": false,
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1
       },
       "hr_de": {
         "box": 4,
@@ -13133,9 +13216,9 @@
     },
     "011-03": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-21",
-        "richtig_in_folge": 3,
+        "box": 4,
+        "faellig_am": "2026-09-19",
+        "richtig_in_folge": 4,
         "falsch_gesamt": 4,
         "gemeistert": false
       },
@@ -13522,9 +13605,9 @@
     "010-14": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-08-21",
+        "faellig_am": "2026-08-22",
         "richtig_in_folge": 1,
-        "falsch_gesamt": 3,
+        "falsch_gesamt": 4,
         "gemeistert": false
       },
       "hr_de": {
@@ -14077,17 +14160,17 @@
     },
     "013-02": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-21",
+        "box": 2,
+        "faellig_am": "2026-08-24",
         "falsch_gesamt": 4,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "gemeistert": false
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-21",
+        "box": 3,
+        "faellig_am": "2026-08-30",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "gemeistert": false
       }
     },
@@ -14100,9 +14183,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-21",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-24",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -14212,9 +14295,9 @@
         "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 1,
-        "faellig_am": "2026-08-21",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-24",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -14247,9 +14330,9 @@
     },
     "013-15": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-21",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-08-24",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -14257,6 +14340,192 @@
         "box": 3,
         "faellig_am": "2026-08-29",
         "richtig_in_folge": 3
+      }
+    },
+    "014-01": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-02": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-03": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-04": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-05": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-06": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "falsch_gesamt": 1,
+        "richtig_in_folge": 1,
+        "gemeistert": false
+      }
+    },
+    "014-07": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-08": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-09": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-10": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-11": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-12": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-13": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-14": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      }
+    },
+    "014-15": {
+      "de_hr": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
+      },
+      "hr_de": {
+        "box": 1,
+        "faellig_am": "2026-08-22",
+        "richtig_in_folge": 1
       }
     }
   },
@@ -14342,12 +14611,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 32,
-    "laengster_streak": 32,
-    "letzter_aktiver_tag": "2026-08-20",
-    "heute_datum": "2026-08-20",
-    "antworten_heute": 60,
-    "gesamt_beantwortet": 4465,
+    "aktueller_streak": 33,
+    "laengster_streak": 33,
+    "letzter_aktiver_tag": "2026-08-21",
+    "heute_datum": "2026-08-21",
+    "antworten_heute": 49,
+    "gesamt_beantwortet": 4514,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -14410,31 +14679,31 @@
         "datum": "2026-08-18"
       }
     ],
-    "fehler_heute": 5,
-    "max_faellig_datum": "2026-08-20",
-    "max_faellig_heute": 55,
-    "aktive_tage": 20,
+    "fehler_heute": 7,
+    "max_faellig_datum": "2026-08-21",
+    "max_faellig_heute": 30,
+    "aktive_tage": 21,
     "letzte_antwortzeiten": [
-      1787201068.269533,
-      1787201073.949697,
-      1787201087.102766,
-      1787201093.829168,
-      1787201097.129589,
-      1787201100.968631,
-      1787201105.730361,
-      1787201112.457029,
-      1787201117.959726,
-      1787201121.360294,
-      1787201126.941501,
-      1787201131.180806,
-      1787201138.33994,
-      1787201153.227859,
-      1787201161.80402,
-      1787201174.989681,
-      1787201183.041888,
-      1787201195.43784,
-      1787201199.981268,
-      1787201207.565244
+      1787306800.440216,
+      1787306805.011002,
+      1787306809.466743,
+      1787306813.562941,
+      1787306821.708629,
+      1787306826.83937,
+      1787306835.075296,
+      1787306840.391192,
+      1787306843.651595,
+      1787306877.886041,
+      1787306882.448832,
+      1787306887.478673,
+      1787306894.367999,
+      1787306898.369448,
+      1787306909.768528,
+      1787306913.796726,
+      1787306918.334177,
+      1787306929.778507,
+      1787306934.779546,
+      1787306941.709639
     ]
   },
   "vokabel_sitzung": {

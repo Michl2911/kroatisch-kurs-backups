@@ -14821,6 +14821,11 @@
       "id": "eigen_14",
       "de": "Sonnenbrille",
       "hr": "Sunčanice"
+    },
+    {
+      "id": "eigen_15",
+      "de": "sich freuen",
+      "hr": "radovati se"
     }
   ],
   "statistik": {
@@ -15001,7 +15006,9 @@
     "richtig": 23,
     "gesamt": 24
   },
-  "einpraegen_ids": [],
+  "einpraegen_ids": [
+    "eigen_15"
+  ],
   "einpraegen_sitzung": {
     "warteschlange": [],
     "begonnen": false

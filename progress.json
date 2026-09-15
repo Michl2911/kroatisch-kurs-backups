@@ -5026,10 +5026,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       }
     },
     "vw_030": {
@@ -6170,10 +6170,10 @@
     },
     "vw_124": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-06",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -6585,10 +6585,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_158": {
@@ -7128,10 +7128,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
+        "box": 0,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1
       }
     },
     "vw_202": {
@@ -8444,10 +8445,10 @@
     },
     "vw_309": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 5,
@@ -9331,10 +9332,10 @@
     },
     "vw_380": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-06",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -9722,11 +9723,11 @@
     },
     "vw_411": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-04",
+        "box": 4,
+        "faellig_am": "2026-10-13",
         "gemeistert": false,
         "falsch_gesamt": 2,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 5,
@@ -9792,10 +9793,10 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-06",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_417": {
@@ -9891,10 +9892,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_426": {
@@ -9943,11 +9944,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 4
+        "richtig_in_folge": 5
       }
     },
     "vw_430": {
@@ -10476,10 +10477,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       }
     },
     "vw_473": {
@@ -10595,10 +10596,10 @@
     },
     "vw_482": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 5,
@@ -11087,10 +11088,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 0,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1
       }
     },
     "vw_523": {
@@ -11428,10 +11430,10 @@
     },
     "vw_550": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 5,
@@ -11564,10 +11566,10 @@
     },
     "002-13": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -11649,10 +11651,10 @@
     },
     "002-15": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-06",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -11749,11 +11751,11 @@
     },
     "003-07": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-01",
+        "box": 4,
+        "faellig_am": "2026-10-13",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -11891,10 +11893,10 @@
     },
     "001-10": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 3
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 5,
@@ -11905,10 +11907,10 @@
     },
     "002-03": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-06",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -11933,10 +11935,11 @@
     },
     "001-15": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 0,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1
       },
       "hr_de": {
         "box": 5,
@@ -12122,11 +12125,11 @@
     },
     "004-01": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-08",
+        "box": 0,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
-        "falsch_gesamt": 1,
-        "richtig_in_folge": 3
+        "falsch_gesamt": 2,
+        "richtig_in_folge": 0
       },
       "hr_de": {
         "box": 5,
@@ -12253,10 +12256,11 @@
     },
     "004-11": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-07",
+        "box": 0,
+        "faellig_am": "2026-09-14",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1
       },
       "hr_de": {
         "box": 5,
@@ -12530,11 +12534,11 @@
     },
     "006-01": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-29",
+        "box": 3,
+        "faellig_am": "2026-09-23",
         "gemeistert": false,
         "falsch_gesamt": 1,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 5,
@@ -12746,17 +12750,17 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-02",
-        "richtig_in_folge": 1
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 2
       }
     },
     "007-02": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-01",
+        "box": 4,
+        "faellig_am": "2026-10-13",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 3,
+        "richtig_in_folge": 4,
         "gemeistert": false
       },
       "hr_de": {
@@ -12785,17 +12789,17 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-02",
-        "richtig_in_folge": 1
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 2
       }
     },
     "007-05": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-03",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -12805,10 +12809,10 @@
     },
     "007-06": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-09",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 4,
@@ -12844,9 +12848,9 @@
     },
     "007-09": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-02",
-        "richtig_in_folge": 1
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 4,
@@ -12916,9 +12920,9 @@
         "richtig_in_folge": 1
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-03",
-        "richtig_in_folge": 1
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 2
       }
     },
     "007-15": {
@@ -12955,9 +12959,9 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
-        "richtig_in_folge": 2
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 3
       }
     },
     "008-03": {
@@ -13093,17 +13097,17 @@
         "richtig_in_folge": 2
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
-        "richtig_in_folge": 2
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 3
       }
     },
     "008-13": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-08",
+        "box": 5,
+        "faellig_am": "2026-12-13",
         "gemeistert": false,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 4,
@@ -13247,9 +13251,11 @@
     },
     "009-07": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
-        "richtig_in_folge": 3
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       },
       "hr_de": {
         "box": 4,
@@ -13293,9 +13299,9 @@
         "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
-        "richtig_in_folge": 3
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 4
       }
     },
     "009-11": {
@@ -13314,9 +13320,9 @@
     },
     "009-12": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
-        "richtig_in_folge": 3
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -13362,16 +13368,16 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-11",
-        "richtig_in_folge": 3
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 4
       }
     },
     "eigen_5": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
-        "richtig_in_folge": 4
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 5
       },
       "hr_de": {
         "box": 4,
@@ -13398,9 +13404,9 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
-        "richtig_in_folge": 4
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 5
       }
     },
     "011-03": {
@@ -13412,9 +13418,11 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
-        "richtig_in_folge": 4
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       }
     },
     "011-04": {
@@ -13461,9 +13469,11 @@
     },
     "011-07": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
-        "richtig_in_folge": 4
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       },
       "hr_de": {
         "box": 4,
@@ -13473,9 +13483,9 @@
     },
     "011-08": {
       "de_hr": {
-        "box": 4,
-        "faellig_am": "2026-09-13",
-        "richtig_in_folge": 4
+        "box": 5,
+        "faellig_am": "2026-12-13",
+        "richtig_in_folge": 5
       },
       "hr_de": {
         "box": 4,
@@ -13874,9 +13884,9 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-30",
-        "richtig_in_folge": 2,
+        "box": 3,
+        "faellig_am": "2026-09-23",
+        "richtig_in_folge": 3,
         "falsch_gesamt": 2,
         "gemeistert": false
       }
@@ -14125,9 +14135,9 @@
     },
     "eigen_14": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-08-30",
-        "richtig_in_folge": 1,
+        "box": 2,
+        "faellig_am": "2026-09-17",
+        "richtig_in_folge": 2,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -14153,9 +14163,9 @@
     },
     "012-02": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-01",
-        "richtig_in_folge": 3,
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4,
         "falsch_gesamt": 1,
         "gemeistert": false
       },
@@ -14211,10 +14221,10 @@
     },
     "012-06": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-01",
-        "falsch_gesamt": 4,
-        "richtig_in_folge": 3,
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "falsch_gesamt": 5,
+        "richtig_in_folge": 0,
         "gemeistert": false
       },
       "hr_de": {
@@ -14300,9 +14310,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-09-01",
-        "richtig_in_folge": 3,
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -14351,9 +14361,11 @@
     },
     "013-01": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 1,
+        "faellig_am": "2026-09-15",
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 2,
+        "gemeistert": false
       },
       "hr_de": {
         "box": 4,
@@ -14370,10 +14382,10 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-30",
+        "box": 4,
+        "faellig_am": "2026-10-13",
         "falsch_gesamt": 2,
-        "richtig_in_folge": 3,
+        "richtig_in_folge": 4,
         "gemeistert": false
       }
     },
@@ -14395,9 +14407,9 @@
     },
     "013-04": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -14412,21 +14424,21 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       }
     },
     "013-06": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       }
     },
     "013-07": {
@@ -14443,9 +14455,9 @@
     },
     "013-08": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -14455,9 +14467,9 @@
     },
     "013-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 4,
@@ -14486,9 +14498,9 @@
         "gemeistert": false
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       }
     },
     "013-12": {
@@ -14507,10 +14519,10 @@
     },
     "013-13": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "falsch_gesamt": 1,
-        "richtig_in_folge": 3,
+        "box": 1,
+        "faellig_am": "2026-09-15",
+        "falsch_gesamt": 2,
+        "richtig_in_folge": 1,
         "gemeistert": false
       },
       "hr_de": {
@@ -14526,9 +14538,9 @@
         "richtig_in_folge": 4
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       }
     },
     "013-15": {
@@ -14552,17 +14564,19 @@
         "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 3,
-        "faellig_am": "2026-09-03",
-        "richtig_in_folge": 3
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 1,
+        "gemeistert": false
       }
     },
     "014-02": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-29",
-        "falsch_gesamt": 2,
-        "richtig_in_folge": 2,
+        "box": 1,
+        "faellig_am": "2026-09-15",
+        "falsch_gesamt": 4,
+        "richtig_in_folge": 1,
         "gemeistert": false
       },
       "hr_de": {
@@ -14625,9 +14639,9 @@
     },
     "014-07": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-03",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 3,
@@ -14637,10 +14651,10 @@
     },
     "014-08": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 2,
-        "falsch_gesamt": 1,
+        "box": 1,
+        "faellig_am": "2026-09-15",
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 2,
         "gemeistert": false
       },
       "hr_de": {
@@ -14651,9 +14665,9 @@
     },
     "014-09": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-03",
-        "richtig_in_folge": 3
+        "box": 4,
+        "faellig_am": "2026-10-13",
+        "richtig_in_folge": 4
       },
       "hr_de": {
         "box": 3,
@@ -14663,10 +14677,10 @@
     },
     "014-10": {
       "de_hr": {
-        "box": 3,
-        "faellig_am": "2026-09-05",
-        "richtig_in_folge": 3,
-        "falsch_gesamt": 4,
+        "box": 0,
+        "faellig_am": "2026-09-14",
+        "richtig_in_folge": 0,
+        "falsch_gesamt": 5,
         "gemeistert": false
       },
       "hr_de": {
@@ -14677,10 +14691,10 @@
     },
     "014-11": {
       "de_hr": {
-        "box": 0,
-        "faellig_am": "2026-08-31",
-        "richtig_in_folge": 0,
-        "falsch_gesamt": 3,
+        "box": 1,
+        "faellig_am": "2026-09-15",
+        "richtig_in_folge": 1,
+        "falsch_gesamt": 4,
         "gemeistert": false
       },
       "hr_de": {
@@ -14722,9 +14736,9 @@
         "richtig_in_folge": 3
       },
       "hr_de": {
-        "box": 2,
-        "faellig_am": "2026-08-29",
-        "richtig_in_folge": 2,
+        "box": 3,
+        "faellig_am": "2026-09-23",
+        "richtig_in_folge": 3,
         "falsch_gesamt": 1,
         "gemeistert": false
       }
@@ -14829,12 +14843,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 43,
+    "aktueller_streak": 1,
     "laengster_streak": 43,
-    "letzter_aktiver_tag": "2026-08-31",
-    "heute_datum": "2026-08-31",
-    "antworten_heute": 13,
-    "gesamt_beantwortet": 4978,
+    "letzter_aktiver_tag": "2026-09-14",
+    "heute_datum": "2026-09-14",
+    "antworten_heute": 73,
+    "gesamt_beantwortet": 5051,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -14899,112 +14913,1316 @@
       {
         "id": "nachteule",
         "datum": "2026-08-31"
+      },
+      {
+        "id": "zurueck_im_spiel",
+        "datum": "2026-09-14"
       }
     ],
-    "fehler_heute": 1,
-    "max_faellig_datum": "2026-08-30",
-    "max_faellig_heute": 41,
-    "aktive_tage": 31,
+    "fehler_heute": 18,
+    "max_faellig_datum": "2026-09-14",
+    "max_faellig_heute": 355,
+    "aktive_tage": 32,
     "letzte_antwortzeiten": [
-      1788121914.190563,
-      1788121918.716393,
-      1788121924.28671,
-      1788121929.797103,
-      1788121937.978944,
-      1788121950.8261,
-      1788121960.369481,
-      1788148651.382421,
-      1788148659.884454,
-      1788148663.686428,
-      1788148683.089459,
-      1788148688.316957,
-      1788148691.942988,
-      1788148695.083434,
-      1788148700.550048,
-      1788148705.208733,
-      1788148709.374621,
-      1788148715.670254,
-      1788148719.070087,
-      1788148734.032626
+      1789406580.208731,
+      1789406586.07763,
+      1789406617.902943,
+      1789406622.279211,
+      1789406628.105366,
+      1789406634.341956,
+      1789406640.862284,
+      1789406644.525184,
+      1789406649.262759,
+      1789406681.733399,
+      1789406688.247071,
+      1789406697.721229,
+      1789406715.641187,
+      1789406722.781599,
+      1789406885.789064,
+      1789406903.488277,
+      1789406914.013775,
+      1789406922.821964,
+      1789406949.602705,
+      1789406969.962435
     ]
   },
   "vokabel_sitzung": {
     "warteschlange": [
       {
-        "id": "013-06",
+        "id": "vw_112",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "013-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-12",
         "richtung": "hr_de"
       },
       {
-        "id": "013-08",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "014-14",
+        "id": "vw_393",
         "richtung": "hr_de"
       },
       {
-        "id": "013-09",
+        "id": "008-15",
         "richtung": "de_hr"
       },
       {
-        "id": "013-01",
+        "id": "008-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_159",
         "richtung": "de_hr"
       },
       {
-        "id": "013-13",
+        "id": "009-05",
         "richtung": "de_hr"
       },
       {
-        "id": "006-01",
+        "id": "009-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_552",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_301",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "005-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_410",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "013-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-05",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_365",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_079",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_112",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_1",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "006-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_302",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "003-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_265",
         "richtung": "de_hr"
       },
       {
         "id": "014-08",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-04",
         "richtung": "de_hr"
       },
       {
-        "id": "013-05",
-        "richtung": "hr_de"
-      },
-      {
-        "id": "013-06",
+        "id": "001-03",
         "richtung": "de_hr"
       },
       {
-        "id": "013-04",
+        "id": "010-14",
         "richtung": "de_hr"
       },
       {
-        "id": "gru-001-06",
+        "id": "007-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-04",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_478",
         "richtung": "hr_de"
       },
       {
-        "id": "013-11",
+        "id": "vw_427",
         "richtung": "hr_de"
       },
       {
-        "id": "013-14",
+        "id": "009-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_368",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-02",
         "richtung": "hr_de"
       },
       {
-        "id": "eigen_14",
+        "id": "vw_285",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_102",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_184",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_081",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_432",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_442",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_451",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_252",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "001-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "010-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_220",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_127",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_142",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_061",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_293",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-05",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_264",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_219",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "005-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_099",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "030-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_547",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-04",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_465",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "006-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_410",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "003-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "005-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_319",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_075",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_406",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_258",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_484",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_5",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-08",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "012-02",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_073",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "011-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "001-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_212",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "002-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_168",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_160",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "002-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_141",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_154",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_483",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "005-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_351",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_097",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_215",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_517",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_292",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-15",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_388",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_160",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_531",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_186",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_178",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_536",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_208",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_4",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_099",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "006-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_504",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_384",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "012-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_245",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_263",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_388",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "006-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_071",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_524",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_6",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "eigen_4",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "005-02",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "002-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_426",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_362",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "005-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_140",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-15",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_239",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_538",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "002-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_286",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_162",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_369",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "eigen_9",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_129",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_431",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_7",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-14",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_476",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_243",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "002-05",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_544",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-08",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_033",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_279",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_225",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "eigen_3",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "002-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "011-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "013-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_2",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_038",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_192",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-14",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-05",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "008-04",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_363",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "002-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "030-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "013-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "012-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_169",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "006-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-15",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_416",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_371",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_471",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-06",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_350",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_379",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_366",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-02",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_349",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_422",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_134",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "006-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_101",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_226",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_379",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_506",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_466",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-08",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_392",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_544",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "003-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_396",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_070",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "001-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_037",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_215",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-14",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_355",
         "richtung": "de_hr"
       },
       {
         "id": "014-02",
-        "richtung": "de_hr"
-      },
-      {
-        "id": "013-02",
         "richtung": "hr_de"
       },
       {
-        "id": "014-11",
+        "id": "008-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_440",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_413",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_012",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-05",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_405",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "011-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-07",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_080",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-04",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_018",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-12",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "003-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_7",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "013-03",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_421",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "003-12",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_300",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_452",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_194",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "004-13",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_136",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_513",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-11",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "001-09",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_198",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "007-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_147",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-08",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_377",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "eigen_3",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_269",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "006-09",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_317",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "008-13",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "012-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-14",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "013-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_349",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "010-02",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-10",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "007-15",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_324",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_540",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "vw_039",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "009-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "011-03",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "009-07",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_201",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "004-01",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "001-15",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "014-01",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "004-11",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "vw_522",
+        "richtung": "hr_de"
+      },
+      {
+        "id": "014-10",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "012-06",
+        "richtung": "de_hr"
+      },
+      {
+        "id": "011-07",
         "richtung": "de_hr"
       }
     ],
-    "richtig": 23,
-    "gesamt": 24
+    "richtig": 37,
+    "gesamt": 48
   },
   "einpraegen_ids": [
     "eigen_15"

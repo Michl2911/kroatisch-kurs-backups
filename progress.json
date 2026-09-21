@@ -14840,6 +14840,11 @@
       "id": "eigen_15",
       "de": "sich freuen",
       "hr": "radovati se"
+    },
+    {
+      "id": "eigen_16",
+      "de": "Schwonz",
+      "hr": "kurac"
     }
   ],
   "statistik": {
@@ -16225,7 +16230,8 @@
     "gesamt": 48
   },
   "einpraegen_ids": [
-    "eigen_15"
+    "eigen_15",
+    "eigen_16"
   ],
   "einpraegen_sitzung": {
     "warteschlange": [],

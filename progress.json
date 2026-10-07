@@ -10276,11 +10276,11 @@
     },
     "vw_452": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-10-06",
+        "box": 2,
+        "faellig_am": "2026-10-09",
         "gemeistert": false,
         "falsch_gesamt": 8,
-        "richtig_in_folge": 1
+        "richtig_in_folge": 2
       },
       "hr_de": {
         "box": 5,
@@ -12965,10 +12965,10 @@
     },
     "007-13": {
       "de_hr": {
-        "box": 1,
-        "faellig_am": "2026-10-06",
+        "box": 2,
+        "faellig_am": "2026-10-09",
         "gemeistert": false,
-        "richtig_in_folge": 1,
+        "richtig_in_folge": 2,
         "falsch_gesamt": 5
       },
       "hr_de": {
@@ -14983,9 +14983,9 @@
     "aktueller_streak": 2,
     "laengster_streak": 43,
     "letzter_aktiver_tag": "2026-10-05",
-    "heute_datum": "2026-10-05",
-    "antworten_heute": 40,
-    "gesamt_beantwortet": 6053,
+    "heute_datum": "2026-10-06",
+    "antworten_heute": 2,
+    "gesamt_beantwortet": 6055,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -15060,13 +15060,11 @@
         "datum": "2026-09-26"
       }
     ],
-    "fehler_heute": 3,
-    "max_faellig_datum": "2026-10-05",
-    "max_faellig_heute": 37,
-    "aktive_tage": 38,
+    "fehler_heute": 0,
+    "max_faellig_datum": "2026-10-06",
+    "max_faellig_heute": 2,
+    "aktive_tage": 39,
     "letzte_antwortzeiten": [
-      1791186807.183657,
-      1791186813.778175,
       1791186901.695699,
       1791186907.224103,
       1791186917.454152,
@@ -15084,7 +15082,9 @@
       1791186997.518956,
       1791187006.551765,
       1791187011.706075,
-      1791187015.339348
+      1791187015.339348,
+      1791310863.649451,
+      1791310870.389023
     ]
   },
   "vokabel_sitzung": {

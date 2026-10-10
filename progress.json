@@ -10276,11 +10276,11 @@
     },
     "vw_452": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-10-09",
+        "box": 3,
+        "faellig_am": "2026-10-18",
         "gemeistert": false,
         "falsch_gesamt": 8,
-        "richtig_in_folge": 2
+        "richtig_in_folge": 3
       },
       "hr_de": {
         "box": 5,
@@ -12965,10 +12965,10 @@
     },
     "007-13": {
       "de_hr": {
-        "box": 2,
-        "faellig_am": "2026-10-09",
+        "box": 3,
+        "faellig_am": "2026-10-18",
         "gemeistert": false,
-        "richtig_in_folge": 2,
+        "richtig_in_folge": 3,
         "falsch_gesamt": 5
       },
       "hr_de": {
@@ -14052,9 +14052,9 @@
     "030-04": {
       "de_hr": {
         "box": 1,
-        "faellig_am": "2026-10-09",
+        "faellig_am": "2026-10-10",
         "richtig_in_folge": 1,
-        "falsch_gesamt": 3,
+        "falsch_gesamt": 5,
         "gemeistert": false
       },
       "hr_de": {
@@ -14980,12 +14980,12 @@
     }
   ],
   "statistik": {
-    "aktueller_streak": 1,
+    "aktueller_streak": 2,
     "laengster_streak": 43,
-    "letzter_aktiver_tag": "2026-10-08",
-    "heute_datum": "2026-10-08",
-    "antworten_heute": 10,
-    "gesamt_beantwortet": 6065,
+    "letzter_aktiver_tag": "2026-10-09",
+    "heute_datum": "2026-10-09",
+    "antworten_heute": 5,
+    "gesamt_beantwortet": 6070,
     "errungenschaften": [
       {
         "id": "umfang_50",
@@ -15060,16 +15060,11 @@
         "datum": "2026-09-26"
       }
     ],
-    "fehler_heute": 1,
-    "max_faellig_datum": "2026-10-08",
-    "max_faellig_heute": 9,
-    "aktive_tage": 40,
+    "fehler_heute": 2,
+    "max_faellig_datum": "2026-10-09",
+    "max_faellig_heute": 3,
+    "aktive_tage": 41,
     "letzte_antwortzeiten": [
-      1791186964.015595,
-      1791186977.006305,
-      1791186982.366015,
-      1791186986.787004,
-      1791186997.518956,
       1791187006.551765,
       1791187011.706075,
       1791187015.339348,
@@ -15084,7 +15079,12 @@
       1791481756.92979,
       1791481762.686706,
       1791481767.411522,
-      1791481771.674101
+      1791481771.674101,
+      1791520868.344496,
+      1791520874.118197,
+      1791520878.455144,
+      1791520885.82367,
+      1791520890.11569
     ]
   },
   "vokabel_sitzung": {
